@@ -1,6 +1,8 @@
 /*
- * tokenizer.c
+Joyce and Kevin Sung
+ tokenizer.c
  */
+ 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
