@@ -7,21 +7,10 @@ Joyce and Kevin Sung
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include "tokenizer.h"
 
 #define MAX_HEX_CHARS 2
 #define MAX_OCT_CHARS 3
-
-/*
- * Tokenizer type.  You need to fill in the type as part of your implementation.
- */
-
-struct TokenizerT_ {
-	char* copied_string;
-	char* delimiters;		
-	char* current_position;
-};
-
-typedef struct TokenizerT_ TokenizerT;
 
 char is_escape_character(char character) {
 	
@@ -173,7 +162,7 @@ char* unescape_string(char* string) {
  * You need to fill in this function as part of your implementation.
  */
 
-TokenizerT *TKCreate(char *separators, char *ts) {
+TokenizerT *TKCreate(FILE *file) {
 	
 	/*
 	 * Description: creates a new tokenizer struct from the token stream and delimiters
@@ -183,7 +172,7 @@ TokenizerT *TKCreate(char *separators, char *ts) {
 	 * 
 	 */
 	 
-	if(separators == NULL || ts == NULL){
+	if(file == NULL){
 		return NULL;
 	}
 	
@@ -193,9 +182,9 @@ TokenizerT *TKCreate(char *separators, char *ts) {
 		return NULL;
 	}
 	
-	tokenizer->delimiters = unescape_string(separators);
-	tokenizer->copied_string = unescape_string(ts);
-	tokenizer->current_position = tokenizer->copied_string;
+	tokenizer->file = file;
+	fgets(tokenizer->current_line, 100, tokenizer->file);
+	tokenizer->current_position = tokenizer->current_line;
 	
 	return tokenizer;
 }
@@ -216,8 +205,6 @@ void TKDestroy(TokenizerT *tk) {
 	 * Returns: nothing 
 	 */
 	 
-	free(tk->copied_string);
-	free(tk->delimiters);
 	free(tk);
 	
 	return;
@@ -268,9 +255,15 @@ char *TKGetNextToken(TokenizerT *tk) {
 	char* token = NULL;
 	char* token_start = NULL;
 
-	while(tk->current_position - tk->copied_string < strlen(tk->copied_string)) {
-		if(!is_delimiter(*tk->current_position, tk->delimiters)) {
-		
+	if (*tk->current_position == '\n') {
+		if (fgets(tk->current_line, 100, tk->file) == NULL) {
+			return NULL;
+		}
+		tk->current_position = tk->current_line;
+	}
+
+	while(tk->current_position - tk->current_line < strlen(tk->current_line)) {
+		if(isalnum(*tk->current_position)) {
 			token_start = tk->current_position;
 			break;
 		}
@@ -281,16 +274,16 @@ char *TKGetNextToken(TokenizerT *tk) {
 		return NULL;
 	}
 	
-	while(tk->current_position - tk->copied_string < strlen(tk->copied_string)) {
-		if(is_delimiter(*tk->current_position, tk->delimiters)) {
+	while(tk->current_position - tk->current_line < strlen(tk->current_line)) {
+		if(!isalnum(*tk->current_position)) {
 			break;
 		}
 		tk->current_position++;
 	}	
 
-	token = (char*)malloc(sizeof(char) * (tk->current_position - tk->copied_string + 1));
+	token = (char*)malloc(sizeof(char) * (tk->current_position - tk->current_line + 1));
 	strncpy(token, token_start, tk->current_position - token_start);
-	token[(tk->current_position - tk->copied_string)] = '\0';
+	token[(tk->current_position - tk->current_line)] = '\0';
 	return token;
 }
 
@@ -303,13 +296,15 @@ char *TKGetNextToken(TokenizerT *tk) {
  */
 
 int main(int argc, char **argv) {
-	
+/*	
 	if(argc != 3){
 		printf("Error: invalid number of arguments\n");
 		return -1;
 	}
-	
-	TokenizerT* tokenizer = TKCreate(argv[1], argv[2]);
+*/
+	FILE *file = fopen("helloworld.txt", "r");
+
+	TokenizerT* tokenizer = TKCreate(file);
 	
 	if(tokenizer == NULL) {
 		printf("Error: unable to create tokenizer\n");
