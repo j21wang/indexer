@@ -142,4 +142,8 @@ void SLDestroyIterator(SortedListIteratorPtr iter);
 
 void *SLNextItem(SortedListIteratorPtr iter);
 
+int compareInts(void *p1, void *p2);
+int compareDoubles(void *p1, void *p2);
+int compareStrings(void *p1, void *p2);
+
 #endif

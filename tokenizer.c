@@ -295,13 +295,14 @@ char *TKGetNextToken(TokenizerT *tk) {
  * Each token should be printed on a separate line.
  */
 
+/*
 int main(int argc, char **argv) {
-/*	
+	
 	if(argc != 3){
 		printf("Error: invalid number of arguments\n");
 		return -1;
 	}
-*/
+
 	FILE *file = fopen("helloworld.txt", "r");
 
 	TokenizerT* tokenizer = TKCreate(file);
@@ -321,3 +322,4 @@ int main(int argc, char **argv) {
 
 	return 0;
 }
+*/

@@ -7,13 +7,17 @@
 #include <stdlib.h>
 #include <string.h>
 #include "tokenizer.h"
-#include "sortedi-list.h"
+#include "sorted-list.h"
+#include "file-reader.h"
 
 int main(int argc, char **argv) {
 
 	FILE *index;
 	FILE *file;
+	
+	CompareFuncT cf = &compareStrings;
+	SortedListPtr words = SLCreate(cf);
 
-
+	scan_dir(argv[2]);
 
 }

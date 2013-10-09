@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include	"sorted-list.h"
 
-/*int compareInts(void *p1, void *p2)
+int compareInts(void *p1, void *p2)
 {
 	int i1 = *(int*)p1;
 	int i2 = *(int*)p2;
@@ -29,7 +29,7 @@ int compareStrings(void *p1, void *p2)
 
 	return strcmp(s1, s2);
 }
-*/
+
 
 SortedListPtr SLCreate(CompareFuncT cf) {
 	SortedListPtr s1 = (SortedListPtr) malloc(sizeof(struct SortedList));

@@ -4,8 +4,9 @@
 #include "string.h"
 #include "sys/stat.h"
 #include "stdlib.h"
+#include "file-reader.h"
 
-static void *readFile(const char *filename){
+void *readFile(const char *filename){
    FILE *fp;
    char line[100];
 
@@ -15,9 +16,10 @@ static void *readFile(const char *filename){
       printf("%s",line);
    }
    fclose(fp);
+   return;
 }
 
-static void scan_dir(const char *dir){
+void scan_dir(const char *dir){
 
    struct dirent *entry;
    DIR *d = opendir(dir);
@@ -35,17 +37,10 @@ static void scan_dir(const char *dir){
          if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0) continue;
          scan_dir(entry->d_name);
       }
-       //printf("%s\n",entry->d_name);
+       printf("%s\n",entry->d_name);
        readFile(entry->d_name);
 
    }
    chdir("..");
    closedir(d);
 }
-
-
-
-main() {
-   scan_dir("test");
-}
-
