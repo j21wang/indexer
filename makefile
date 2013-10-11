@@ -20,5 +20,5 @@ sorted-list.o: sorted-list.c sorted-list.h
 hashtable.o: hashtable.c hashtable.h
 			$(CC) $(CFLAGS) hashtable.c
 
-clean: rm-rf *.o index
-		 rm-rf *.o 
+clean:
+		 rm -rf *.o index 
