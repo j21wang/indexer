@@ -14,10 +14,13 @@ int main(int argc, char **argv) {
 
 	FILE *index;
 	FILE *file;
+   FILE *outfile;
 	
 	CompareFuncT cf = &compareStrings;
 	SortedListPtr words = SLCreate(cf);
 
 	scan_dir(argv[2]);
 
+   outputToFile(argv[1]);
+   return 0;
 }

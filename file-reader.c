@@ -6,7 +6,7 @@
 #include "stdlib.h"
 #include "file-reader.h"
 
-void *readFile(const char *filename){
+void readFile(const char *filename){
    FILE *fp;
    char line[100];
 
@@ -16,7 +16,6 @@ void *readFile(const char *filename){
       printf("%s",line);
    }
    fclose(fp);
-   return;
 }
 
 void scan_dir(const char *dir){
@@ -43,4 +42,13 @@ void scan_dir(const char *dir){
    }
    chdir("..");
    closedir(d);
+}
+
+void outputToFile (const char *filename){
+
+   FILE *outfile;
+   outfile = fopen(filename,"w");
+   const char *text = "Write this to the file";
+   fprintf(outfile,"this is a test %s\n",text);
+
 }

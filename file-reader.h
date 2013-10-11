@@ -3,8 +3,10 @@
 
 #include <stdlib.h>
 
-void *readFile(const char *filename);
+void readFile(const char *filename);
 
 void scan_dir(const char *dir);
+
+void outputToFile(const char *filename);
 
 #endif
