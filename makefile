@@ -2,8 +2,8 @@ CC = gcc
 CFLAGS = -c -Wall -g
 
 all: index
-index: main.o file-reader.o tokenizer.o sorted-list.o
-	 $(CC) main.o file-reader.o tokenizer.o sorted-list.o -o index
+index: main.o file-reader.o tokenizer.o sorted-list.o hashtable.o
+	 $(CC) main.o file-reader.o tokenizer.o sorted-list.o hashtable.o -o index
 
 main.o: main.c sorted-list.h tokenizer.h
 		  $(CC) $(CFLAGS) main.c
@@ -16,6 +16,9 @@ tokenizer.o: tokenizer.c tokenizer.h
 
 sorted-list.o: sorted-list.c sorted-list.h
 			$(CC) $(CFLAGS) sorted-list.c
+
+hashtable.o: hashtable.c hashtable.h
+			$(CC) $(CFLAGS) hashtable.c
 
 clean: rm-rf *.o index
 		 rm-rf *.o 
