@@ -36,7 +36,7 @@ WordCountPair *ht_get(HashTable *hashtable, char *word);
 
 int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist);
 
-void ht_merge(SortedListPtr list, char* filepath, HashTable *hashtable, SortedListPtr wordlist);
+void ht_merge(SortedListIteratorPtr list, char* filepath, HashTable *hashtable, SortedListIteratorPtr wordlist);
 
 unsigned long hash(char *string); 
 

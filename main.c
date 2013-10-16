@@ -22,6 +22,6 @@ int main(int argc, char **argv) {
 
 	scan_dir(argv[2], words);
 
-   outputToFile(argv[1]);
+   outputPairsToFile(argv[1],words);
    return 0;
 }
