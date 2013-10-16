@@ -63,40 +63,33 @@ int dir_exist(const char *path){
    return stat(path, &buffer) == 0 && S_ISDIR(buffer.st_mode);
 }
 
-void scan_dir(const char *arg, SortedListPtr words){
+void scan_dir(const char *dir, SortedListPtr words){
 
    struct dirent *entry;
-   DIR *d = opendir(arg);
+   DIR *d = opendir(dir);
    struct stat statbuf;
 
-   /*if(d!=0){
-      return;
-   }*/
+   if(dir_exist(dir)){
+      chdir(dir);
+      while((entry = readdir(d))!=0){
+         lstat(entry->d_name,&statbuf);
+         if(S_ISDIR(statbuf.st_mode)){
+            if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0) continue;
+            scan_dir(entry->d_name, words);
+         }
+          printf("%s\n",entry->d_name);
+          readWordsFromFile(entry->d_name, words);
 
-   /*if(file_exist(arg)) {
-
-      readWordsFromFile(arg,words);
-
-   } else if(dir_exist(arg)){*/
-
-   chdir(arg);
-   while((entry = readdir(d))!=0){
-      lstat(entry->d_name,&statbuf);
-      if(S_ISDIR(statbuf.st_mode)){
-         if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0) continue;
-         scan_dir(entry->d_name, words);
       }
-       printf("%s\n",entry->d_name);
-       readWordsFromFile(entry->d_name, words);
-   }
       chdir("..");
       closedir(d);
-
-   /*} else {
-      return;    
-   }*/
-
-  }
+   } else if(file_exist(dir)){
+      readWordsFromFile(dir,words);
+   } else {
+      perror(dir);
+      return;
+   }
+}
 
 void outputToFile (const char *filename){
 
@@ -105,4 +98,28 @@ void outputToFile (const char *filename){
    const char *text = "Write this to the file";
    fprintf(outfile,"this is a test %s\n",text);
 
+}
+
+void outputPairsToFile (const char *filename, SortedListPtr wordlist){
+
+   SortedListIteratorPtr mainIterator;
+   SortedListIteratorPtr pairIterator;
+   FILE *outfile;
+   const char *word;
+   WordListPair *wlp;
+   FileCountPair *fcp;
+
+   outfile = fopen(filename,"w");
+
+   mainIterator = SLCreateIterator(wordlist);
+
+   while((word = SLNextItem(wordlist)) != NULL){
+      fprintf(outfile,"<list> %s\n",word);
+      
+      pairIterator = SLCreateIterator(word);
+      while((wlp = SLNextItem(pairIterator)) != NULL){
+         fprintf(outfile,"%s %n ",wlp->word,fcp->count);
+      }
+      fprintf(outfile,"</list>");
+   }
 }
