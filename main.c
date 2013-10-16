@@ -17,7 +17,7 @@ int main(int argc, char **argv) {
 	FILE *file;
    FILE *outfile;
 	
-	CompareFuncT cf = &compareFileCounts;
+	CompareFuncT cf = &compareWordListPairs;
 	SortedListPtr words = SLCreate(cf);
 
 	scan_dir(argv[2], words);

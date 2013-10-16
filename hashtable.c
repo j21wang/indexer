@@ -115,7 +115,7 @@ WordCountPair *ht_get(HashTable *hashtable, char *word) {
 
 }
 
-void ht_merge(SortedListPtr list, char* filepath, HashTable hashtable, SortedListPtr wordlist) {
+void ht_merge(SortedListPtr list, char* filepath, HashTable *hashtable, SortedListPtr wordlist) {
 	FileCountPair *fcp;
 	WordCountPair *wcp;
 	SortedListIteratorPtr iterator;
