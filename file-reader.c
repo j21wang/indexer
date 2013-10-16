@@ -5,6 +5,9 @@
 #include "sys/stat.h"
 #include "stdlib.h"
 #include "file-reader.h"
+#include "hashtable.h"
+#include "sorted-list.h"
+#include "tokenizer.h"
 
 void readFile(const char *filename){
    FILE *fp;
@@ -18,7 +21,39 @@ void readFile(const char *filename){
    fclose(fp);
 }
 
-void scan_dir(const char *dir){
+void readWordsFromFile(const char *filename,SortedListPtr list){
+   FILE *fp;
+   TokenizerT* tokenizer;
+   HashTable* hashTable;
+   char *token = NULL;
+   SortedListPtr wordlist;
+   WordCountPair *wcp;
+
+   fp = fopen(filename,"r");
+   tokenizer = TKCreate(fp);
+   hashTable = createHashTable(100);
+   wordlist = SLCreate(&compareStrings);
+
+   if(tokenizer == NULL){
+      return;
+   }
+
+   while((token = TKGetNextToken(tokenizer)) != NULL){
+      printf("%s\n",token);
+      ht_update(hashTable, token, wordlist);
+   }
+
+   SortedListIteratorPtr iterator = SLCreateIterator(wordlist);
+   while ((token = SLNextItem(iterator)) != NULL) {
+      wcp = ht_get(hashTable,token);   
+      printf("Word: %s, Count: %d\n", wcp->word, wcp->count);
+   }
+   //ht_merge(list, hashtable);   //write this function
+
+   fclose(fp);
+}
+
+void scan_dir(const char *dir, SortedListPtr words){
 
    struct dirent *entry;
    DIR *d = opendir(dir);
@@ -34,10 +69,10 @@ void scan_dir(const char *dir){
       lstat(entry->d_name,&statbuf);
       if(S_ISDIR(statbuf.st_mode)){
          if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0) continue;
-         scan_dir(entry->d_name);
+         scan_dir(entry->d_name, words);
       }
        printf("%s\n",entry->d_name);
-       readFile(entry->d_name);
+       readWordsFromFile(entry->d_name, words);
 
    }
    chdir("..");

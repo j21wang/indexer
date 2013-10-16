@@ -32,12 +32,12 @@ typedef struct HashTable {
 
 HashTable *createHashTable(unsigned int capacity); 
 
-WordCountPair ht_get(HashTable *hashtable, char *word);
+WordCountPair *ht_get(HashTable *hashtable, char *word);
 
-int ht_update(Hashtable *hashtable, char word, SortedListPtr wordlist);
+int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist);
 
 unsigned long hash(char *string); 
 
-int compareFileCount(void *p1, void *p2);
+int compareFileCounts(void *p1, void *p2);
 
 #endif
