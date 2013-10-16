@@ -6,7 +6,7 @@
 #include "sorted-list.h"
 
 typedef struct FileCountPair {
-	char *filepath;
+	const char *filepath;
 	unsigned int count;
 } FileCountPair;
 
@@ -36,7 +36,7 @@ WordCountPair *ht_get(HashTable *hashtable, char *word);
 
 int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist);
 
-void ht_merge(SortedListPtr list, char* filepath, HashTable *hashtable, SortedListPtr wordlist);
+void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, SortedListPtr wordlist);
 
 unsigned long hash(char *string); 
 

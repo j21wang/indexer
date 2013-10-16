@@ -113,12 +113,12 @@ void outputPairsToFile (const char *filename, SortedListPtr wordlist){
 
    mainIterator = SLCreateIterator(wordlist);
 
-   while((word = SLNextItem(wordlist)) != NULL){
-      fprintf(outfile,"<list> %s\n",word);
+   while((wlp = SLNextItem(mainIterator)) != NULL){
+      fprintf(outfile,"<list> %s\n",wlp->word);
       
-      pairIterator = SLCreateIterator(word);
-      while((wlp = SLNextItem(pairIterator)) != NULL){
-         fprintf(outfile,"%s %n ",wlp->word,fcp->count);
+      pairIterator = SLCreateIterator(wlp->list);
+      while((fcp = SLNextItem(pairIterator)) != NULL){
+         fprintf(outfile,"%s %d ",fcp->filepath,fcp->count);
       }
       fprintf(outfile,"</list>");
    }

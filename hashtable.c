@@ -115,7 +115,7 @@ WordCountPair *ht_get(HashTable *hashtable, char *word) {
 
 }
 
-void ht_merge(SortedListPtr list, char* filepath, HashTable *hashtable, SortedListPtr wordlist) {
+void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, SortedListPtr wordlist) {
 	FileCountPair *fcp;
 	WordCountPair *wcp;
 	SortedListIteratorPtr iterator;
@@ -126,7 +126,7 @@ void ht_merge(SortedListPtr list, char* filepath, HashTable *hashtable, SortedLi
 	iterator = SLCreateIterator(wordlist);
 	mainListIterator = SLCreateIterator(list);
 	
-	while ((word = SLNextItem(wordlist)) != NULL) {
+	while ((word = SLNextItem(iterator)) != NULL) {
 		wcp = ht_get(hashtable, word);
 		fcp = malloc(sizeof(FileCountPair));
 		fcp->filepath = filepath;
