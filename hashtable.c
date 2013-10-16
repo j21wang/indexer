@@ -40,7 +40,7 @@ HashTable *createHashTable(unsigned int capacity) {
 }
 */
 
-int ht_update(HashTable *hashtable, char *word) {
+int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist) {
 
 	unsigned int index;
 	LinkedList *bucket;
@@ -75,11 +75,43 @@ int ht_update(HashTable *hashtable, char *word) {
 		} else {
 			prev->next = newnode;
 		}
+		SLInsert(wordlist, word);
 		return 1;
 	}
 
 	(bucket->wcp)->count++;
 	return 1;
+
+}
+
+WordCountPair *ht_get(HashTable *hashtable, char *word) {
+
+	unsigned int index;
+	LinkedList *bucket;
+	LinkedList *prev;
+	LinkedList *newnode;
+	WordCountPair *wcp;
+
+	if (hashtable == NULL) {
+		return 0;
+	}
+	if (word == NULL) {
+		return 0;
+	}
+
+	index = hash(word) % hashtable->size;
+	bucket = hashtable->table[index];
+	prev = bucket;
+
+	while (bucket != NULL && strcmp((bucket->wcp)->word, word) != 0) {
+		prev = bucket;
+		bucket = bucket->next;
+	}
+	if (bucket == NULL) {
+		return NULL;
+	}
+
+	return bucket->wcp;
 
 }
 

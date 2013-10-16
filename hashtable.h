@@ -34,6 +34,8 @@ HashTable *createHashTable(unsigned int capacity);
 
 WordCountPair ht_get(HashTable *hashtable, char *word);
 
+int ht_update(Hashtable *hashtable, char word, SortedListPtr wordlist);
+
 unsigned long hash(char *string); 
 
 int compareFileCount(void *p1, void *p2);
