@@ -36,8 +36,12 @@ WordCountPair *ht_get(HashTable *hashtable, char *word);
 
 int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist);
 
+void ht_merge(SortedListPtr list, HashTable hashtable, SortedListPtr wordlist);
+
 unsigned long hash(char *string); 
 
 int compareFileCounts(void *p1, void *p2);
+
+int compareWordListPairs(void *p1, void *p2);
 
 #endif
