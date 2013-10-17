@@ -123,8 +123,8 @@ void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, So
 	char *word;
 	WordListPair *wlp;
 
-	iterator = SLCreateIterator(wordlist->list);
-	mainListIterator = SLCreateIterator(list->list);
+	iterator = SLCreateIterator(wordlist);
+	mainListIterator = SLCreateIterator(list);
 	
 	while ((word = SLNextItem(iterator)) != NULL) {
 		wcp = ht_get(hashtable, word);
@@ -139,7 +139,7 @@ void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, So
 			wlp = malloc(sizeof(WordListPair));
 			wlp->word = word;
 			wlp->list = newlist;
-			SLInsert(list->list, wlp);
+			SLInsert(list, wlp);
 		} else {
 			SLInsert(wlp->list, fcp);
 		}

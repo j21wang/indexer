@@ -281,9 +281,9 @@ char *TKGetNextToken(TokenizerT *tk) {
 		tk->current_position++;
 	}	
 
-	token = (char*)malloc(sizeof(char) * (tk->current_position - tk->current_line + 1));
+	token = (char*)malloc(sizeof(char) * (tk->current_position - token_start + 1));
 	strncpy(token, token_start, tk->current_position - token_start);
-	token[(tk->current_position - tk->current_line)] = '\0';
+	token[(tk->current_position - token_start)] = '\0';
 	return token;
 }
 
