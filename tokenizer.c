@@ -183,7 +183,7 @@ TokenizerT *TKCreate(FILE *file) {
 	}
 	
 	tokenizer->file = file;
-	fgets(tokenizer->current_line, 100, tokenizer->file);
+	fgets(tokenizer->current_line, 500, tokenizer->file);
 	tokenizer->current_position = tokenizer->current_line;
 	
 	return tokenizer;
@@ -255,14 +255,14 @@ char *TKGetNextToken(TokenizerT *tk) {
 	char* token = NULL;
 	char* token_start = NULL;
 
-	printf("%d\n",*tk->current_position);
+	//printf("%d\n",*tk->current_position);
 	/* The line above prints the current character.
 	 * A bunch of special characters still cause problems,
 	 * like spaces, periods, etc if you look at the ASCII */
-	if (*tk->current_position == 13) {
-		fgets(tk->current_line, 100, tk->file);
-		while (tk->current_line[0] == 13) {
-			if (fgets(tk->current_line, 100, tk->file) == NULL) {
+	if (*tk->current_position == '\n') {
+		fgets(tk->current_line, 500, tk->file);
+		while (*tk->current_line == '\n') {
+			if (fgets(tk->current_line, 500, tk->file) == NULL) {
 				return NULL;
 			}
 		}

@@ -10,7 +10,7 @@
 
 struct TokenizerT_ {
 	FILE* file;
-	char current_line[100];
+	char current_line[500];
 	char* current_position;
 };
 typedef struct TokenizerT_ TokenizerT;

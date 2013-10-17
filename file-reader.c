@@ -11,11 +11,11 @@
 
 void readFile(const char *filename){
    FILE *fp;
-   char line[100];
+   char line[500];
 
    fp = fopen(filename,"r");
 
-   while(fgets(line,100,fp) != NULL){
+   while(fgets(line,500,fp) != NULL){
       printf("%s",line);
    }
    fclose(fp);
