@@ -49,6 +49,7 @@ void readWordsFromFile(const char *filename,SortedListPtr list){
       printf("Word: %s, Count: %d\n", wcp->word, wcp->count);
    }
    ht_merge(list, filename, hashTable, wordlist);   //write this function
+   destroyHashTable(hashTable);
 
    fclose(fp);
 }

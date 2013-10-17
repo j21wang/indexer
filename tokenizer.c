@@ -255,9 +255,16 @@ char *TKGetNextToken(TokenizerT *tk) {
 	char* token = NULL;
 	char* token_start = NULL;
 
-	if (*tk->current_position == '\n') {
-		if (fgets(tk->current_line, 100, tk->file) == NULL) {
-			return NULL;
+	printf("%d\n",*tk->current_position);
+	/* The line above prints the current character.
+	 * A bunch of special characters still cause problems,
+	 * like spaces, periods, etc if you look at the ASCII */
+	if (*tk->current_position == 13) {
+		fgets(tk->current_line, 100, tk->file);
+		while (tk->current_line[0] == 13) {
+			if (fgets(tk->current_line, 100, tk->file) == NULL) {
+				return NULL;
+			}
 		}
 		tk->current_position = tk->current_line;
 	}

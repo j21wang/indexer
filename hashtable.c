@@ -24,21 +24,37 @@ HashTable *createHashTable(unsigned int capacity) {
 
 }
 
-/*void destroyHashTable(HashTable *hashtable) {
+void destroyHashTable(HashTable *hashtable) {
 
-	unsigned int i, j, n, m;
+	unsigned int i, n;
 	LinkedList *list;
-	WordListPair *wlp;
+	LinkedList *prev;
 
 	if (hashtable == NULL) {
 		return;
 	}
 
-	n = hashtable->count;
-	table = hashtable->table;
+	n = hashtable->size;
 	i = 0;
+
+	for (i = 0; i < n; i++) {
+		list = hashtable->table[i];
+		prev = list;
+		if (list == NULL) {
+			continue;
+		}
+		while (list != NULL) {
+			list = list->next;
+			free(prev->wcp);
+			free(prev);
+			prev = list;
+		}
+	}
+	free(hashtable->table);
+	free(hashtable);
+
 }
-*/
+
 
 int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist) {
 
@@ -89,8 +105,6 @@ WordCountPair *ht_get(HashTable *hashtable, char *word) {
 	unsigned int index;
 	LinkedList *bucket;
 	LinkedList *prev;
-	LinkedList *newnode;
-	WordCountPair *wcp;
 
 	if (hashtable == NULL) {
 		return 0;

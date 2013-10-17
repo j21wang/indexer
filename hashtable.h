@@ -32,6 +32,8 @@ typedef struct HashTable {
 
 HashTable *createHashTable(unsigned int capacity); 
 
+void destroyHashTable(HashTable *hashtable);
+
 WordCountPair *ht_get(HashTable *hashtable, char *word);
 
 int ht_update(HashTable *hashtable, char *word, SortedListPtr wordlist);
