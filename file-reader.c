@@ -79,7 +79,7 @@ void scan_dir(const char *dir, SortedListPtr words){
             scan_dir(entry->d_name, words);
          }
           printf("%s\n",entry->d_name);
-          readWordsFromFile(entry->d_name, words);
+		  if(!dir_exist(entry->d_name)) readWordsFromFile(entry->d_name, words);
 
       }
       chdir("..");
@@ -121,6 +121,6 @@ void outputPairsToFile (const char *filename, SortedListPtr wordlist){
       while((fcp = SLNextItem(pairIterator)) != NULL){
          fprintf(outfile,"%s %d ",fcp->filepath,fcp->count);
       }
-      fprintf(outfile,"</list>");
+      fprintf(outfile,"\n</list>\n");
    }
 }

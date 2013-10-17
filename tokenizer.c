@@ -254,13 +254,16 @@ char *TKGetNextToken(TokenizerT *tk) {
 	
 	char* token = NULL;
 	char* token_start = NULL;
+	int i;
 
 	//printf("%d\n",*tk->current_position);
 	/* The line above prints the current character.
 	 * A bunch of special characters still cause problems,
 	 * like spaces, periods, etc if you look at the ASCII */
 	if (*tk->current_position == '\n') {
-		fgets(tk->current_line, 500, tk->file);
+		if (fgets(tk->current_line, 500, tk->file) == NULL) {
+			return NULL;
+		}
 		while (*tk->current_line == '\n') {
 			if (fgets(tk->current_line, 500, tk->file) == NULL) {
 				return NULL;
@@ -275,6 +278,18 @@ char *TKGetNextToken(TokenizerT *tk) {
 			break;
 		}
 		tk->current_position++;
+		//printf("finding start, current character is %d\n", *tk->current_position);
+		if (*tk->current_position == '\n') {
+			if (fgets(tk->current_line, 500, tk->file) == NULL) {
+				return NULL;
+			}
+			while (*tk->current_line == '\n') {
+				if (fgets(tk->current_line, 500, tk->file) == NULL) {
+					return NULL;
+				}
+			}
+			tk->current_position = tk->current_line;
+		}
 	}
 	
 	if(token_start == NULL) {
@@ -291,6 +306,9 @@ char *TKGetNextToken(TokenizerT *tk) {
 	token = (char*)malloc(sizeof(char) * (tk->current_position - token_start + 1));
 	strncpy(token, token_start, tk->current_position - token_start);
 	token[(tk->current_position - token_start)] = '\0';
+	for (i = 0; i < strlen(token); i++) {
+		token[i] = tolower(token[i]);
+	}
 	return token;
 }
 

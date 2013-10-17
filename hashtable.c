@@ -138,14 +138,20 @@ void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, So
 	WordListPair *wlp;
 
 	iterator = SLCreateIterator(wordlist);
-	mainListIterator = SLCreateIterator(list);
 	
 	while ((word = SLNextItem(iterator)) != NULL) {
+		mainListIterator = SLCreateIterator(list);
+		printf("new hash word: %s\n", word);
 		wcp = ht_get(hashtable, word);
 		fcp = malloc(sizeof(FileCountPair));
 		fcp->filepath = filepath;
 		fcp->count = wcp->count;
 		while ((wlp = SLNextItem(mainListIterator)) != NULL) {
+			printf("wlp word is %s, hashtable word is %s\n", wlp->word, word);
+			if (strcmp(wlp->word, word) == 0) {
+				printf("%s is in list already\n", word);
+				break;
+			}
 		}
 		if (wlp == NULL) {	//the word is not already in the main list
 			SortedListPtr newlist = SLCreate(&compareFileCounts);
@@ -157,7 +163,9 @@ void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, So
 		} else {
 			SLInsert(wlp->list, fcp);
 		}
+		SLDestroyIterator(mainListIterator);
 	}
+	SLDestroyIterator(iterator);
 }
 
 unsigned long hash(char *string) {
@@ -182,5 +190,5 @@ int compareWordListPairs(void *p1, void *p2) {
 	char *s1 = ((WordListPair *) p1)->word;
 	char *s2 = ((WordListPair *) p2)->word;
 
-	return strcmp(s1, s2);
+	return strcmp(s2, s1);
 }
