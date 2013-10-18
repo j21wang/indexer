@@ -24,5 +24,6 @@ int main(int argc, char **argv) {
 	scan_dir(argv[2], argv[2], words);
 
    outputPairsToFile(argv[1],words);
+   SLDestroy(words);
    return 0;
 }
