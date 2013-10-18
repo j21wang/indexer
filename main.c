@@ -20,8 +20,12 @@ int main(int argc, char **argv) {
 
 	CompareFuncT cf = &compareWordListPairs;
 	SortedListPtr words = SLCreate(cf);
+    char *filepath = argv[2];
+    if (filepath[strlen(filepath)-1] == '/') {
+        filepath[strlen(filepath)-1] = '\0';
+    }
 
-	scan_dir(argv[2], argv[2], words);
+	scan_dir(filepath, filepath, words);
 
    outputPairsToFile(argv[1],words);
    SLDestroy(words);

@@ -92,7 +92,7 @@ void scan_dir(char *path, const char *dir, SortedListPtr words){
            char *filepath = malloc(1024*sizeof(char));
            filepath = malloc(1024*sizeof(char));
            strcpy(filepath,path);
-           //strcat(filepath,"/");
+           strcat(filepath,"/");
            strcat(filepath,entry->d_name);
            readWordsFromFile(filepath, entry->d_name, words);
         }

@@ -1,5 +1,5 @@
 <list> error
-testDir//test2/test3example.txt 1 
+testDir/test2/test3/example.txt 1 
 </list>
 <list> hello
 testDir/test.txt 1 
@@ -8,22 +8,22 @@ testDir/test.txt 1
 testDir/example.txt 1 
 </list>
 <list> hi
-testDir//test2test2.txt 1 
+testDir/test2/test2.txt 1 
 </list>
 <list> is
-testDir//test2/test3ex2.txt 1 testDir/example.txt 1 
+testDir/test2/test3/ex2.txt 1 testDir/example.txt 1 
 </list>
 <list> joyce
-testDir//test2/test3ex2.txt 1 testDir/example.txt 1 
+testDir/test2/test3/ex2.txt 1 testDir/example.txt 1 
 </list>
 <list> my
-testDir//test2/test3ex2.txt 1 
+testDir/test2/test3/ex2.txt 1 
 </list>
 <list> name
-testDir//test2/test3ex2.txt 1 
+testDir/test2/test3/ex2.txt 1 
 </list>
 <list> there
-testDir//test2test2.txt 1 
+testDir/test2/test2.txt 1 
 </list>
 <list> wurld
 testDir/test.txt 1 
