@@ -1,0 +1,60 @@
+<list> all
+makefile 1 
+</list>
+<list> c
+makefile 11 
+</list>
+<list> cc
+makefile 7 
+</list>
+<list> cflags
+makefile 6 
+</list>
+<list> clean
+makefile 1 
+</list>
+<list> file
+makefile 6 
+</list>
+<list> g
+makefile 1 
+</list>
+<list> gcc
+makefile 1 
+</list>
+<list> h
+makefile 6 
+</list>
+<list> hashtable
+makefile 6 
+</list>
+<list> index
+makefile 4 
+</list>
+<list> list
+makefile 7 
+</list>
+<list> main
+makefile 5 
+</list>
+<list> o
+makefile 17 
+</list>
+<list> reader
+makefile 6 
+</list>
+<list> rf
+makefile 1 
+</list>
+<list> rm
+makefile 1 
+</list>
+<list> sorted
+makefile 7 
+</list>
+<list> tokenizer
+makefile 7 
+</list>
+<list> wall
+makefile 1 
+</list>
