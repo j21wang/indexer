@@ -141,15 +141,12 @@ void ht_merge(SortedListPtr list, const char* filepath, HashTable *hashtable, So
 	
 	while ((word = SLNextItem(iterator)) != NULL) {
 		mainListIterator = SLCreateIterator(list);
-		printf("new hash word: %s\n", word);
 		wcp = ht_get(hashtable, word);
 		fcp = malloc(sizeof(FileCountPair));
 		fcp->filepath = filepath;
 		fcp->count = wcp->count;
 		while ((wlp = SLNextItem(mainListIterator)) != NULL) {
-			printf("wlp word is %s, hashtable word is %s\n", wlp->word, word);
 			if (strcmp(wlp->word, word) == 0) {
-				printf("%s is in list already\n", word);
 				break;
 			}
 		}

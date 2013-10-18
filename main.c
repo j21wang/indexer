@@ -1,5 +1,5 @@
 /*
- * Joyce Want and Kevin Sung
+ * Joyce Wang and Kevin Sung
  * main.c for indexer
  */
 
@@ -20,7 +20,7 @@ int main(int argc, char **argv) {
 	CompareFuncT cf = &compareWordListPairs;
 	SortedListPtr words = SLCreate(cf);
 
-	scan_dir(argv[2], words);
+	scan_dir(argv[2], argv[2], words);
 
    outputPairsToFile(argv[1],words);
    return 0;

@@ -21,7 +21,10 @@ void readFile(const char *filename){
    fclose(fp);
 }
 
-void readWordsFromFile(const char *filename,SortedListPtr list){
+void readWordsFromFile(const char *filepath,const char *filename,SortedListPtr list){
+
+   printf("Entering readWordsFromFile: filepath = %s, filename = %s\n", filepath, filename);
+
    FILE *fp;
    TokenizerT* tokenizer;
    HashTable* hashTable;
@@ -34,21 +37,22 @@ void readWordsFromFile(const char *filename,SortedListPtr list){
    hashTable = createHashTable(100);
    wordlist = SLCreate(&compareStrings);
 
+   //printf("path: %s\n",filepath);
    if(tokenizer == NULL){
       return;
    }
 
    while((token = TKGetNextToken(tokenizer)) != NULL){
-      printf("%s\n",token);
+      //printf("%s\n",token);
       ht_update(hashTable, token, wordlist);
    }
 
    SortedListIteratorPtr iterator = SLCreateIterator(wordlist);
    while ((token = SLNextItem(iterator)) != NULL) {
       wcp = ht_get(hashTable,token);   
-      printf("Word: %s, Count: %d\n", wcp->word, wcp->count);
+      //printf("Word: %s, Count: %d\n", wcp->word, wcp->count);
    }
-   ht_merge(list, filename, hashTable, wordlist);   //write this function
+   ht_merge(list, filepath, hashTable, wordlist);   //write this function
    destroyHashTable(hashTable);
 
    fclose(fp);
@@ -64,41 +68,44 @@ int dir_exist(const char *path){
    return stat(path, &buffer) == 0 && S_ISDIR(buffer.st_mode);
 }
 
-void scan_dir(const char *dir, SortedListPtr words){
+void scan_dir(char *path, const char *dir, SortedListPtr words){
+
+   printf("Entering scan_dir: path = %s, dir = %s\n", path, dir);
 
    struct dirent *entry;
    DIR *d = opendir(dir);
    struct stat statbuf;
 
-   if(dir_exist(dir)){
+   if(dir_exist(dir)){ //directory
       chdir(dir);
       while((entry = readdir(d))!=0){
          lstat(entry->d_name,&statbuf);
-         if(S_ISDIR(statbuf.st_mode)){
+         if(S_ISDIR(statbuf.st_mode)){ //it is directory
             if(strcmp(".",entry->d_name) == 0 || strcmp("..",entry->d_name) == 0) continue;
-            scan_dir(entry->d_name, words);
+            char *filepath = malloc(1024*sizeof(char));
+            strcpy(filepath,path);
+            strcat(filepath,"/");
+            strcat(filepath,entry->d_name);
+            scan_dir(filepath,entry->d_name, words);
          }
-          printf("%s\n",entry->d_name);
-		  if(!dir_exist(entry->d_name)) readWordsFromFile(entry->d_name, words);
+		  if(!dir_exist(entry->d_name)) {
+           char *filepath = malloc(1024*sizeof(char));
+           filepath = malloc(1024*sizeof(char));
+           strcpy(filepath,path);
+           strcat(filepath,"/");
+           strcat(filepath,entry->d_name);
+           readWordsFromFile(filepath, entry->d_name, words);
+        }
 
       }
       chdir("..");
       closedir(d);
-   } else if(file_exist(dir)){
-      readWordsFromFile(dir,words);
-   } else {
+   } else if(file_exist(dir)){ //file
+      readWordsFromFile(dir,dir,words);
+   } else { //error
       perror(dir);
       return;
    }
-}
-
-void outputToFile (const char *filename){
-
-   FILE *outfile;
-   outfile = fopen(filename,"w");
-   const char *text = "Write this to the file";
-   fprintf(outfile,"this is a test %s\n",text);
-
 }
 
 void outputPairsToFile (const char *filename, SortedListPtr wordlist){
@@ -106,7 +113,6 @@ void outputPairsToFile (const char *filename, SortedListPtr wordlist){
    SortedListIteratorPtr mainIterator;
    SortedListIteratorPtr pairIterator;
    FILE *outfile;
-   const char *word;
    WordListPair *wlp;
    FileCountPair *fcp;
 
