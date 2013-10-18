@@ -1,0 +1,73 @@
+﻿Joyce Wang
+Kevin Sung
+
+
+Indexer Test Cases
+**All these files that we performed tests with are attached.
+
+
+1) Invalid input: too few arguments
+Input: ./index output.txt
+Expected output: Error: invalid input
+Actual output: Error: invalid input
+
+
+2) Invalid input: too many arguments
+Input: ./index output.txt testDir test.txt
+Expected output: Error: invalid input
+Actual output: Error: invalid input
+
+
+3) One file: emptyFile.txt is empty and output.txt does not exist
+Input: ./index output.txt emptyFile.txt
+Expected output: output.txt is created and empty
+Actual output: output.txt is empty
+
+
+3) One file: emptyFile.txt is empty and output.txt does exist
+Input: ./index output.txt emptyFile.txt
+Expected output: output.txt is overwritten and becomes empty
+Actual output: output.txt is empty
+
+
+4) One file: oneLineFile.txt (in directory)
+Input: ./index output.txt oneLineFile.txt
+Expected output: counts the words (ignores ‘!’s and makes everything lowercase)
+Actual output: counts the words (ignores ‘!’s and makes everything lowercase)
+
+
+5) One file: multipleLineFile.txt (in directory)
+Input: ./index output.txt multipleLineFile.txt
+Expected output: counts the words (ignores everything besides alphanumeric and makes everything lowercase)
+Actual output: counts the words (ignores everything besides alphanumeric and makes everything lowercase)
+
+
+6) Directory: emptyTestDir is empty
+Input: ./index output.txt emptyTestDir
+Expected output: output.txt is empty
+Actual output: output.txt is empty
+
+
+7) Directory: simpleTestDir contains files (no directories)
+Input: ./index output.txt simpleTestDir
+Expected output: counts the words in the files and specifies directory path in output file
+Actual output: counts the words in the files and specifies directory path in output file
+
+
+8) Directory: justDirs contains 2 levels of empty directories
+Input: ./index output.txt justDirs
+Expected output: output.txt is empty
+Actual output: output.txt is empty
+
+
+9) Directory: testDir contains levels of files and directories
+Input: ./index output.txt testDir
+Expected output: output.txt contains the path of the file of each word with its correct count, ignoring all non-alphanumeric characters
+Actual output: output.txt contains the path of the file of each word with its correct count, ignoring all non-alphanumeric characters
+**Note: we have two files called example.txt, but since the path is outputted, there is no conflict with the name of the file
+
+
+10) Only non-alphanumeric characters in nonAlphaNum.txt
+Input: ./index output.txt nonAlphaNum.txt
+Expected output: output.txt should be empty
+Actual output: output.txt is empty

@@ -13,6 +13,11 @@
 
 int main(int argc, char **argv) {
 
+   if(argc != 3){
+      printf("Error: invalid input\n");
+      return -1;
+   }
+
 	CompareFuncT cf = &compareWordListPairs;
 	SortedListPtr words = SLCreate(cf);
 
