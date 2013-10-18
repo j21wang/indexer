@@ -13,10 +13,6 @@
 
 int main(int argc, char **argv) {
 
-	FILE *index;
-	FILE *file;
-   FILE *outfile;
-	
 	CompareFuncT cf = &compareWordListPairs;
 	SortedListPtr words = SLCreate(cf);
 
