@@ -1,0 +1,3333 @@
+<list> 0
+./pa3/tokenizer.c 26 ./tokenizer.c 26 ./pa3/sorted-list.c 20 ./sorted-list.c 20 ./hashtable.c 10 ./pa3/hashtable.c 10 ./.git/hooks/pre-rebase.sample 7 ./pa3/file-reader.c 5 ./file-reader.c 5 ./pa3/sorted-list.h 3 ./.git/hooks/update.sample 3 ./sorted-list.h 3 ./main.c 2 ./pa3/main.c 2 ./pa3/readme.pdf 2 ./.git/hooks/pre-commit.sample 2 ./readme.pdf 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/config 1 ./readme.log 1 
+</list>
+<list> 0000
+./.git/hooks/update.sample 2 
+</list>
+<list> 0000000000000000000000000000000000000000
+./.git/hooks/pre-push.sample 1 ./.git/hooks/update.sample 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> 0500
+./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> 06
+./readme.log 1 
+</list>
+<list> 0s
+./pa3/readme.pdf 1 
+</list>
+<list> 1
+./pa3/sorted-list.c 18 ./sorted-list.c 18 ./pa3/tokenizer.c 15 ./tokenizer.c 15 ./.git/hooks/pre-rebase.sample 15 ./output.txt 12 ./helloworld.txt 12 ./.git/hooks/update.sample 12 ./hello.txt 12 ./pa3/output.txt 7 ./.git/hooks/commit-msg.sample 6 ./main.c 5 ./.git/hooks/prepare-commit-msg.sample 5 ./readme.log 5 ./pa3/main.c 4 ./pa3/sorted-list.h 4 ./.git/hooks/pre-push.sample 4 ./sorted-list.h 4 ./readme.aux 3 ./hashtable.c 3 ./pa3/hashtable.c 3 ./pa3/readme.pdf 3 ./.git/hooks/pre-commit.sample 3 ./readme.tex 1 ./pa3/testplan.txt 1 ./readme.pdf 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./testplan.txt 1 
+</list>
+<list> 10
+./readme.log 3 ./pa3/tokenizer.c 2 ./tokenizer.c 2 ./pa3/testplan.txt 1 ./.git/hooks/pre-commit.sample 1 ./testplan.txt 1 
+</list>
+<list> 100
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> 1000
+./readme.log 2 
+</list>
+<list> 10000
+./readme.log 1 
+</list>
+<list> 10000000
+./readme.log 1 
+</list>
+<list> 10000p
+./readme.log 1 
+</list>
+<list> 1024
+./pa3/file-reader.c 3 ./file-reader.c 3 
+</list>
+<list> 11
+./pa3/output.txt 1 
+</list>
+<list> 12
+./readme.log 1 
+</list>
+<list> 1383934683
+./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> 14
+./readme.log 1 
+</list>
+<list> 1415926
+./readme.log 1 
+</list>
+<list> 142b
+./readme.log 1 
+</list>
+<list> 15000
+./readme.log 1 
+</list>
+<list> 16
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./readme.log 1 
+</list>
+<list> 17
+./pa3/output.txt 1 
+</list>
+<list> 17p
+./readme.log 1 
+</list>
+<list> 18
+./readme.log 2 
+</list>
+<list> 187s
+./readme.log 1 
+</list>
+<list> 19
+./readme.log 3 
+</list>
+<list> 1903
+./readme.pdf 1 
+</list>
+<list> 1905
+./pa3/readme.pdf 1 
+</list>
+<list> 1q
+./.git/hooks/update.sample 1 
+</list>
+<list> 1st
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> 2
+./.git/hooks/update.sample 16 ./.git/hooks/pre-rebase.sample 12 ./pa3/tokenizer.c 2 ./pa3/testplan.txt 2 ./tokenizer.c 2 ./.git/hooks/pre-push.sample 2 ./.git/hooks/pre-commit.sample 2 ./testplan.txt 2 ./main.c 1 ./readme.aux 1 ./pa3/main.c 1 ./pa3/readme.pdf 1 ./readme.pdf 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 ./readme.log 1 
+</list>
+<list> 200
+./main.c 3 
+</list>
+<list> 200000b
+./readme.log 1 
+</list>
+<list> 2006
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> 2007
+./readme.log 2 
+</list>
+<list> 2008
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> 2011
+./readme.log 1 
+</list>
+<list> 2013
+./readme.log 3 
+</list>
+<list> 214
+./readme.tex 1 
+</list>
+<list> 229
+./readme.log 1 
+</list>
+<list> 23i
+./readme.log 1 
+</list>
+<list> 2448
+./readme.log 1 
+</list>
+<list> 26
+./readme.log 1 
+</list>
+<list> 27
+./readme.log 1 
+</list>
+<list> 28
+./readme.log 1 
+</list>
+<list> 29
+./readme.log 2 
+</list>
+<list> 2nd
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> 3
+./pa3/tokenizer.c 2 ./pa3/testplan.txt 2 ./tokenizer.c 2 ./readme.log 2 ./testplan.txt 2 ./main.c 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/readme.pdf 1 ./.main.c.swp 1 ./readme.pdf 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.file-reader.c.swp 1 
+</list>
+<list> 32
+./readme.log 1 
+</list>
+<list> 3761
+./readme.log 1 
+</list>
+<list> 4
+./pa3/readme.pdf 3 ./pa3/output.txt 1 ./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> 40
+./readme.log 1 
+</list>
+<list> 493307
+./readme.log 1 
+</list>
+<list> 4b825dc642cb6eb9a060e54bf8d69288fbee4904
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> 4h
+./readme.log 2 
+</list>
+<list> 5
+./pa3/readme.pdf 2 ./readme.pdf 2 ./readme.log 2 ./hashtable.c 1 ./pa3/output.txt 1 ./pa3/hashtable.c 1 ./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> 500
+./pa3/tokenizer.c 5 ./tokenizer.c 5 ./pa3/file-reader.c 2 ./file-reader.c 2 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> 500000
+./readme.log 1 
+</list>
+<list> 5000000
+./readme.log 1 
+</list>
+<list> 5000i
+./readme.log 1 
+</list>
+<list> 500n
+./readme.log 1 
+</list>
+<list> 5381
+./hashtable.c 1 ./pa3/hashtable.c 1 
+</list>
+<list> 54685
+./readme.log 1 
+</list>
+<list> 6
+./readme.log 13 ./pa3/output.txt 5 ./pa3/readme.pdf 2 ./readme.pdf 2 ./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> 600000
+./readme.log 1 
+</list>
+<list> 61212
+./readme.log 1 
+</list>
+<list> 6139904
+./readme.log 1 
+</list>
+<list> 6n
+./readme.log 1 
+</list>
+<list> 7
+./pa3/output.txt 4 ./pa3/tokenizer.c 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./.main.c.swp 1 ./readme.log 1 ./.file-reader.c.swp 1 ./testplan.txt 1 
+</list>
+<list> 7280
+./readme.log 1 
+</list>
+<list> 78
+./readme.log 1 
+</list>
+<list> 8
+./readme.log 4 ./pa3/tokenizer.c 1 ./pa3/readme.pdf 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./testplan.txt 1 
+</list>
+<list> 8000000
+./readme.log 1 
+</list>
+<list> 80000s
+./readme.log 1 
+</list>
+<list> 8191
+./readme.log 1 
+</list>
+<list> 8388607
+./readme.log 1 
+</list>
+<list> 9
+./pa3/testplan.txt 1 ./readme.pdf 1 ./testplan.txt 1 
+</list>
+<list> 9000
+./readme.log 1 
+</list>
+<list> 957
+./readme.log 1 
+</list>
+<list> 9a
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> 9f
+./readme.log 1 
+</list>
+<list> a
+./pa3/tokenizer.c 33 ./tokenizer.c 33 ./pa3/sorted-list.h 16 ./sorted-list.h 16 ./readme.tex 13 ./.git/hooks/pre-rebase.sample 12 ./.git/hooks/update.sample 10 ./.git/hooks/prepare-commit-msg.sample 4 ./.git/hooks/pre-commit.sample 3 ./.git/hooks/commit-msg.sample 3 ./pa3/readme.pdf 2 ./.git/hooks/pre-push.sample 2 ./.git/info/exclude 2 ./.git/hooks/post-update.sample 1 ./index.txt 1 
+</list>
+<list> aborted
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> about
+./.git/hooks/pre-push.sample 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 
+</list>
+<list> above
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> abovecaptionskip
+./readme.log 1 
+</list>
+<list> acrazydiamond1
+./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> active
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> actual
+./pa3/testplan.txt 11 ./testplan.txt 11 ./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> add
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> added
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> address
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> adds
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> advisable
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> affecting
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> affectt
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> afresh
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> after
+./readme.tex 3 ./main.c 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> again
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> against
+./.git/hooks/pre-commit.sample 5 ./readme.tex 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> all
+./readme.tex 4 ./pa3/tokenizer.c 3 ./pa3/testplan.txt 3 ./tokenizer.c 3 ./testplan.txt 3 ./pa3/sorted-list.h 2 ./.git/hooks/pre-rebase.sample 2 ./sorted-list.h 2 ./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> allocated
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> allow
+./.git/hooks/pre-rebase.sample 3 ./pa3/sorted-list.h 1 ./.git/hooks/pre-commit.sample 1 ./sorted-list.h 1 
+</list>
+<list> allowdeletebranch
+./.git/hooks/update.sample 5 
+</list>
+<list> allowdeletetag
+./.git/hooks/update.sample 4 
+</list>
+<list> allowed
+./.git/hooks/update.sample 10 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> allowing
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> allowmodifytag
+./.git/hooks/update.sample 4 
+</list>
+<list> allownonascii
+./.git/hooks/pre-commit.sample 4 
+</list>
+<list> allows
+./readme.tex 1 
+</list>
+<list> allowunannotated
+./.git/hooks/update.sample 4 
+</list>
+<list> alphanumeric
+./pa3/testplan.txt 5 ./testplan.txt 5 
+</list>
+<list> already
+./.git/hooks/pre-rebase.sample 5 ./hashtable.c 1 ./readme.tex 1 ./pa3/hashtable.c 1 ./.git/hooks/update.sample 1 
+</list>
+<list> amend
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> amsfonts
+./readme.log 5 
+</list>
+<list> an
+./pa3/tokenizer.c 4 ./pa3/sorted-list.h 4 ./tokenizer.c 4 ./sorted-list.h 4 ./.git/hooks/pre-commit.sample 3 ./.git/hooks/pre-applypatch.sample 3 ./.git/hooks/applypatch-msg.sample 3 ./readme.tex 2 ./.git/hooks/commit-msg.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> analysis
+./readme.aux 1 ./readme.tex 1 
+</list>
+<list> and
+./readme.tex 12 ./pa3/testplan.txt 11 ./testplan.txt 11 ./.git/hooks/pre-rebase.sample 7 ./pa3/tokenizer.c 6 ./tokenizer.c 6 ./.git/hooks/pre-commit.sample 2 ./main.c 1 ./tokenizer.h 1 ./readme.aux 1 ./pa3/main.c 1 ./pa3/tokenizer.h 1 ./pa3/sorted-list.h 1 ./readme.log 1 ./sorted-list.h 1 
+</list>
+<list> annotated
+./.git/hooks/update.sample 3 
+</list>
+<list> any
+./pa3/sorted-list.h 3 ./sorted-list.h 3 
+</list>
+<list> anything
+./.git/hooks/update.sample 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> applypatch
+./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/applypatch-msg.sample 2 
+</list>
+<list> appropriate
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> are
+./.git/hooks/pre-rebase.sample 3 ./pa3/sorted-list.h 2 ./.git/hooks/pre-commit.sample 2 ./sorted-list.h 2 ./readme.tex 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-push.sample 1 ./.git/info/exclude 1 ./testplan.txt 1 
+</list>
+<list> argc
+./main.c 2 ./pa3/main.c 2 ./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> argument
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> arguments
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./pa3/testplan.txt 2 ./testplan.txt 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> argv
+./main.c 4 ./pa3/main.c 3 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> around
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> article
+./readme.log 2 ./readme.tex 1 
+</list>
+<list> as
+./pa3/tokenizer.c 12 ./tokenizer.c 12 ./pa3/sorted-list.h 10 ./sorted-list.h 10 ./readme.tex 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> ascii
+./.git/hooks/pre-commit.sample 3 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> assignment
+./readme.tex 2 
+</list>
+<list> associated
+./readme.tex 2 
+</list>
+<list> assumed
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> at
+./.git/hooks/pre-rebase.sample 4 ./pa3/tokenizer.c 1 ./pa3/sorted-list.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 ./sorted-list.c 1 
+</list>
+<list> attached
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> attempt
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> author
+./readme.tex 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> aux
+./readme.log 3 
+</list>
+<list> avoid
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> b
+./.git/hooks/pre-rebase.sample 7 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> b0vim
+./.main.c.swp 1 ./.file-reader.c.swp 1 
+</list>
+<list> babel
+./readme.log 1 
+</list>
+<list> bad
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> bak
+./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> bare
+./.git/config 1 
+</list>
+<list> base
+./readme.log 2 
+</list>
+<list> basebranch
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> be
+./pa3/tokenizer.c 9 ./tokenizer.c 9 ./.git/hooks/update.sample 9 ./pa3/sorted-list.h 6 ./.git/hooks/pre-rebase.sample 6 ./sorted-list.h 6 ./.git/hooks/pre-push.sample 3 ./.git/hooks/pre-commit.sample 2 ./readme.tex 1 ./pa3/testplan.txt 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/info/exclude 1 ./testplan.txt 1 
+</list>
+<list> because
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> becomes
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> been
+./.git/hooks/pre-rebase.sample 5 ./readme.tex 3 ./pa3/sorted-list.h 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/update.sample 1 ./sorted-list.h 1 
+</list>
+<list> before
+./.git/hooks/pre-rebase.sample 2 ./main.c 1 ./pa3/sorted-list.h 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./sorted-list.h 1 
+</list>
+<list> begin
+./readme.tex 1 
+</list>
+<list> beginning
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> being
+./.git/hooks/pre-rebase.sample 4 ./.git/hooks/pre-push.sample 3 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> below
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> belowcaptionskip
+./readme.log 1 
+</list>
+<list> besides
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> better
+./.git/hooks/pre-rebase.sample 2 ./simpleTestDir/secondFile.txt 1 
+</list>
+<list> bibindent
+./readme.log 1 
+</list>
+<list> bin
+./.git/hooks/prepare-commit-msg.sample 3 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> blocks
+./.git/hooks/update.sample 1 
+</list>
+<list> bool
+./.git/hooks/update.sample 5 
+</list>
+<list> boolean
+./.git/hooks/update.sample 5 
+</list>
+<list> bracket
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> brackets
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> branch
+./.git/hooks/pre-rebase.sample 13 ./.git/hooks/update.sample 7 ./.git/hooks/pre-push.sample 2 ./.git/config 1 
+</list>
+<list> branches
+./.git/hooks/pre-rebase.sample 6 ./.git/hooks/update.sample 2 
+</list>
+<list> break
+./pa3/tokenizer.c 4 ./tokenizer.c 4 ./pa3/sorted-list.c 2 ./sorted-list.c 2 ./hashtable.c 1 ./pa3/hashtable.c 1 
+</list>
+<list> bucket
+./hashtable.c 20 ./pa3/hashtable.c 20 
+</list>
+<list> buckets
+./readme.tex 1 
+</list>
+<list> buffer
+./pa3/file-reader.c 5 ./file-reader.c 5 
+</list>
+<list> build
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> bulk
+./readme.tex 1 
+</list>
+<list> bunch
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> but
+./.git/hooks/pre-rebase.sample 5 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/testplan.txt 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/commit-msg.sample 1 ./testplan.txt 1 
+</list>
+<list> by
+./.git/hooks/update.sample 6 ./.git/hooks/commit-msg.sample 6 ./.git/hooks/prepare-commit-msg.sample 4 ./pa3/sorted-list.h 2 ./.git/hooks/pre-rebase.sample 2 ./sorted-list.h 2 ./readme.tex 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> bytes
+./.git/hooks/pre-commit.sample 1 ./readme.log 1 
+</list>
+<list> c
+./makefile 11 ./pa3/makefile 11 ./.git/hooks/pre-rebase.sample 10 ./readme.log 8 ./hashtable.c 3 ./pa3/hashtable.c 3 ./pa3/tokenizer.c 2 ./pa3/readme.pdf 2 ./tokenizer.c 2 ./.git/hooks/pre-commit.sample 2 ./main.c 1 ./pa3/main.c 1 ./pa3/output.txt 1 ./pa3/sorted-list.c 1 ./.git/hooks/commit-msg.sample 1 ./.git/info/exclude 1 ./sorted-list.c 1 
+</list>
+<list> c9
+./pa3/readme.pdf 1 
+</list>
+<list> cached
+./.git/hooks/pre-commit.sample 2 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> called
+./.git/hooks/pre-push.sample 2 ./pa3/testplan.txt 1 ./pa3/sorted-list.h 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./testplan.txt 1 ./sorted-list.h 1 
+</list>
+<list> caller
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> can
+./.git/hooks/pre-rebase.sample 4 ./pa3/sorted-list.h 3 ./sorted-list.h 3 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> capacity
+./hashtable.c 3 ./pa3/hashtable.c 3 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> case
+./.git/hooks/update.sample 2 ./readme.tex 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> cases
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> cat
+./.git/hooks/update.sample 1 
+</list>
+<list> catches
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> cause
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> cc
+./makefile 7 ./pa3/makefile 7 ./pa3/output.txt 1 
+</list>
+<list> cf
+./pa3/sorted-list.c 9 ./sorted-list.c 9 ./main.c 2 ./pa3/main.c 2 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> cflags
+./makefile 6 ./pa3/makefile 6 ./pa3/output.txt 1 
+</list>
+<list> change
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> changes
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> char
+./pa3/tokenizer.c 30 ./tokenizer.c 30 ./tokenizer.h 15 ./pa3/tokenizer.h 15 ./pa3/file-reader.c 15 ./file-reader.c 14 ./hashtable.c 7 ./pa3/hashtable.c 7 ./pa3/file-reader.h 7 ./pa3/hashtable.h 7 ./hashtable.h 7 ./file-reader.h 6 ./main.c 3 ./pa3/main.c 2 ./pa3/sorted-list.c 2 ./sorted-list.c 2 
+</list>
+<list> character
+./pa3/tokenizer.c 45 ./tokenizer.c 45 ./tokenizer.h 5 ./pa3/tokenizer.h 5 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> characters
+./pa3/tokenizer.c 8 ./tokenizer.c 8 ./pa3/testplan.txt 3 ./testplan.txt 3 ./readme.log 1 
+</list>
+<list> chars
+./pa3/tokenizer.c 4 ./tokenizer.c 4 
+</list>
+<list> chdir
+./pa3/file-reader.c 2 ./file-reader.c 2 ./main.c 1 
+</list>
+<list> check
+./.git/hooks/update.sample 3 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> checked
+./readme.tex 1 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> checking
+./readme.log 6 
+</list>
+<list> class
+./readme.log 2 
+</list>
+<list> clean
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> clo
+./readme.log 2 
+</list>
+<list> clone
+./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> closedir
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> cls
+./readme.log 1 
+</list>
+<list> cm
+./readme.log 5 
+</list>
+<list> cmbx12
+./readme.log 1 
+</list>
+<list> cmex
+./readme.log 1 
+</list>
+<list> cmex10
+./readme.log 5 
+</list>
+<list> cmm
+./readme.log 1 
+</list>
+<list> cmmi10
+./readme.log 1 
+</list>
+<list> cmr
+./readme.log 3 
+</list>
+<list> cmr10
+./readme.log 1 
+</list>
+<list> cmr12
+./readme.log 1 
+</list>
+<list> cmr17
+./readme.log 1 
+</list>
+<list> cmsy
+./readme.log 1 
+</list>
+<list> com
+./.git/logs/refs/heads/master 2 ./.git/logs/refs/remotes/origin/HEAD 2 ./.git/logs/HEAD 2 ./.git/config 1 
+</list>
+<list> command
+./.git/hooks/update.sample 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> commented
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> comments
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> commit
+./.git/hooks/prepare-commit-msg.sample 8 ./.git/hooks/commit-msg.sample 7 ./.git/hooks/applypatch-msg.sample 5 ./.git/hooks/pre-push.sample 4 ./.git/hooks/pre-commit.sample 4 ./.git/hooks/update.sample 4 ./.git/hooks/pre-applypatch.sample 3 
+</list>
+<list> commits
+./.git/hooks/pre-push.sample 4 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> committed
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 
+</list>
+<list> comparator
+./pa3/sorted-list.h 5 ./sorted-list.h 5 
+</list>
+<list> compared
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> comparedoubles
+./pa3/sorted-list.c 1 ./pa3/sorted-list.h 1 ./sorted-list.c 1 ./sorted-list.h 1 
+</list>
+<list> comparefilecounts
+./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> comparefunct
+./pa3/sorted-list.c 3 ./pa3/sorted-list.h 3 ./sorted-list.c 3 ./sorted-list.h 3 ./main.c 1 ./pa3/main.c 1 
+</list>
+<list> compareints
+./pa3/sorted-list.c 1 ./pa3/sorted-list.h 1 ./sorted-list.c 1 ./sorted-list.h 1 
+</list>
+<list> comparestrings
+./pa3/sorted-list.c 1 ./pa3/sorted-list.h 1 ./pa3/file-reader.c 1 ./sorted-list.c 1 ./sorted-list.h 1 ./file-reader.c 1 
+</list>
+<list> comparewordlistpairs
+./main.c 1 ./hashtable.c 1 ./pa3/main.c 1 ./pa3/hashtable.c 1 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> complication
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> compressed
+./readme.log 1 
+</list>
+<list> compute
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> config
+./.git/hooks/update.sample 7 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> configurable
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> conflict
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> conflicts
+./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> consider
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> const
+./pa3/file-reader.c 7 ./pa3/file-reader.h 6 ./file-reader.c 6 ./file-reader.h 5 ./pa3/hashtable.h 2 ./hashtable.h 2 ./hashtable.c 1 ./pa3/hashtable.c 1 
+</list>
+<list> contain
+./readme.tex 1 
+</list>
+<list> containing
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> contains
+./pa3/testplan.txt 5 ./testplan.txt 5 ./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> contentsline
+./readme.aux 2 
+</list>
+<list> continue
+./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> control
+./readme.log 1 
+</list>
+<list> converted
+./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> converts
+./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> cooked
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> cope
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> copy
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> copyright
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> core
+./.git/config 1 
+</list>
+<list> correct
+./pa3/testplan.txt 2 ./testplan.txt 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> could
+./.git/hooks/pre-rebase.sample 2 ./readme.tex 1 ./.git/hooks/update.sample 1 
+</list>
+<list> count
+./pa3/tokenizer.c 15 ./tokenizer.c 15 ./hashtable.c 6 ./pa3/hashtable.c 6 ./readme.tex 4 ./pa3/file-reader.c 3 ./file-reader.c 3 ./pa3/hashtable.h 2 ./pa3/testplan.txt 2 ./hashtable.h 2 ./testplan.txt 2 
+</list>
+<list> count1
+./hashtable.c 2 ./pa3/hashtable.c 2 
+</list>
+<list> count2
+./hashtable.c 2 ./pa3/hashtable.c 2 
+</list>
+<list> count79
+./readme.log 1 
+</list>
+<list> count80
+./readme.log 1 
+</list>
+<list> count81
+./readme.log 1 
+</list>
+<list> count82
+./readme.log 1 
+</list>
+<list> count83
+./readme.log 1 
+</list>
+<list> count84
+./readme.log 1 
+</list>
+<list> count85
+./readme.log 1 
+</list>
+<list> count86
+./readme.log 1 
+</list>
+<list> counts
+./pa3/testplan.txt 6 ./testplan.txt 6 
+</list>
+<list> create
+./pa3/tokenizer.c 1 ./pa3/sorted-list.h 1 ./tokenizer.c 1 ./sorted-list.h 1 
+</list>
+<list> created
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./readme.tex 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-rebase.sample 1 ./testplan.txt 1 
+</list>
+<list> createhashtable
+./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./file-reader.c 1 
+</list>
+<list> creates
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./readme.tex 2 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> creating
+./.git/hooks/update.sample 2 
+</list>
+<list> creation
+./.git/hooks/update.sample 1 
+</list>
+<list> cross
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> cs
+./readme.tex 1 
+</list>
+<list> ctype
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> curr
+./pa3/sorted-list.c 53 ./sorted-list.c 53 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> current
+./pa3/tokenizer.c 57 ./tokenizer.c 57 ./main.c 2 ./tokenizer.h 2 ./pa3/tokenizer.h 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> cwd
+./main.c 5 
+</list>
+<list> d
+./pa3/file-reader.c 13 ./file-reader.c 13 ./pa3/tokenizer.c 2 ./pa3/readme.pdf 2 ./tokenizer.c 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> d1
+./pa3/sorted-list.c 3 ./sorted-list.c 3 
+</list>
+<list> d2
+./pa3/sorted-list.c 3 ./sorted-list.c 3 
+</list>
+<list> data
+./pa3/sorted-list.c 9 ./sorted-list.c 9 ./readme.tex 1 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> date
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> dcf2e5709effd900379e50d9073748c4f34de411
+./.git/refs/heads/master 1 ./.git/packed-refs 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> dealing
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> deallocates
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> debian
+./readme.log 1 
+</list>
+<list> default
+./.git/hooks/update.sample 5 
+</list>
+<list> defaults
+./readme.log 6 
+</list>
+<list> define
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./tokenizer.h 1 ./file-reader.h 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.h 1 ./pa3/hashtable.h 1 ./pa3/sorted-list.h 1 ./hashtable.h 1 ./sorted-list.h 1 
+</list>
+<list> delete
+./.git/hooks/update.sample 8 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> deleted
+./pa3/sorted-list.c 10 ./sorted-list.c 10 ./.git/hooks/pre-rebase.sample 3 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> deleting
+./.git/hooks/update.sample 5 ./pa3/sorted-list.c 3 ./sorted-list.c 3 
+</list>
+<list> delimited
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> delimiter
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> delimiters
+./pa3/tokenizer.c 8 ./tokenizer.c 8 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> denied
+./.git/hooks/update.sample 1 
+</list>
+<list> denycreatebranch
+./.git/hooks/update.sample 4 
+</list>
+<list> dependent
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> description
+./pa3/tokenizer.c 9 ./tokenizer.c 9 ./.git/hooks/update.sample 3 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/description 1 
+</list>
+<list> designated
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> destinations
+./readme.log 1 
+</list>
+<list> destroy
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> destroyed
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> destroyhashtable
+./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./file-reader.c 1 
+</list>
+<list> destroys
+./pa3/tokenizer.c 2 ./pa3/sorted-list.h 2 ./tokenizer.c 2 ./sorted-list.h 2 
+</list>
+<list> detached
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> determines
+./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> dev
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> diff
+./.git/hooks/pre-commit.sample 4 ./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> digit
+./pa3/tokenizer.c 11 ./tokenizer.c 11 ./tokenizer.h 2 ./pa3/tokenizer.h 2 
+</list>
+<list> dimen102
+./readme.log 1 
+</list>
+<list> dir
+./pa3/file-reader.c 17 ./file-reader.c 17 ./.git/hooks/update.sample 3 ./file-reader.h 2 ./pa3/file-reader.h 2 ./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/applypatch-msg.sample 2 ./main.c 1 ./pa3/main.c 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> dirc
+./.git/index 1 
+</list>
+<list> directly
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> directories
+./pa3/testplan.txt 3 ./testplan.txt 3 
+</list>
+<list> directory
+./pa3/testplan.txt 8 ./testplan.txt 8 ./main.c 2 ./pa3/file-reader.c 2 ./file-reader.c 2 ./readme.tex 1 
+</list>
+<list> dirent
+./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> dis
+./readme.log 1 
+</list>
+<list> disable
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> dist
+./readme.log 6 
+</list>
+<list> distinct
+./readme.tex 4 
+</list>
+<list> do
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> doc
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> document
+./readme.tex 2 ./readme.log 2 
+</list>
+<list> documentclass
+./readme.tex 1 
+</list>
+<list> documents
+./output.txt 12 
+</list>
+<list> does
+./pa3/testplan.txt 2 ./testplan.txt 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> doesn
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> doing
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> don
+./.git/hooks/update.sample 1 
+</list>
+<list> done
+./.git/hooks/pre-push.sample 3 
+</list>
+<list> double
+./pa3/sorted-list.c 4 ./sorted-list.c 4 
+</list>
+<list> dumb
+./.git/hooks/post-update.sample 1 
+</list>
+<list> duplicate
+./.git/hooks/commit-msg.sample 2 
+</list>
+<list> dynamically
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> e
+./pa3/readme.pdf 3 ./readme.pdf 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./readme.log 1 
+</list>
+<list> each
+./readme.tex 6 ./pa3/testplan.txt 2 ./testplan.txt 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> earlier
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> easier
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> easily
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> echo
+./.git/hooks/update.sample 14 ./.git/hooks/pre-commit.sample 12 ./.git/hooks/pre-rebase.sample 3 ./.git/hooks/commit-msg.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> edit
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./.git/description 1 
+</list>
+<list> edited
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> efficiency
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> either
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> elem
+./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> element
+./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> elf
+./sorted-list.o 1 ./tokenizer.o 1 ./pa3/sorted-list.o 1 ./pa3/tokenizer.o 1 ./pa3/hashtable.o 1 ./pa3/file-reader.o 1 ./pa3/main.o 1 ./pa3/index 1 ./tokenizer 1 ./hashtable.o 1 ./file-reader.o 1 ./main.o 1 ./index 1 
+</list>
+<list> else
+./pa3/tokenizer.c 8 ./tokenizer.c 8 ./pa3/sorted-list.c 7 ./sorted-list.c 7 ./pa3/sorted-list.h 4 ./sorted-list.h 4 ./.git/hooks/update.sample 3 ./.git/hooks/pre-rebase.sample 3 ./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/file-reader.c 2 ./.git/hooks/pre-push.sample 2 ./file-reader.c 2 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> empty
+./pa3/testplan.txt 14 ./testplan.txt 14 ./.git/hooks/pre-rebase.sample 2 ./pa3/sorted-list.c 1 ./pa3/sorted-list.h 1 ./.git/hooks/pre-commit.sample 1 ./sorted-list.c 1 ./sorted-list.h 1 
+</list>
+<list> emptyfile
+./pa3/testplan.txt 4 ./testplan.txt 4 
+</list>
+<list> emptytestdir
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> enable
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> enabled
+./readme.log 2 
+</list>
+<list> encapsulated
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> encountered
+./readme.tex 1 
+</list>
+<list> encounters
+./readme.tex 1 
+</list>
+<list> encourage
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> end
+./pa3/sorted-list.h 3 ./sorted-list.h 3 ./.git/hooks/pre-rebase.sample 2 ./readme.tex 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> endif
+./tokenizer.h 1 ./file-reader.h 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.h 1 ./pa3/hashtable.h 1 ./pa3/sorted-list.h 1 ./hashtable.h 1 ./sorted-list.h 1 
+</list>
+<list> ends
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> entering
+./pa3/file-reader.c 2 ./file-reader.c 2 ./.git/hooks/update.sample 1 ./readme.log 1 
+</list>
+<list> entries
+./readme.tex 2 
+</list>
+<list> entry
+./pa3/file-reader.c 10 ./file-reader.c 10 ./readme.tex 1 
+</list>
+<list> equal
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> error
+./pa3/testplan.txt 4 ./testplan.txt 4 ./pa3/tokenizer.c 2 ./tokenizer.c 2 ./main.c 1 ./testDir/test2/test3/example.txt 1 ./output.txt 1 ./helloworld.txt 1 ./pa3/main.c 1 ./pa3/file-reader.c 1 ./.git/hooks/pre-commit.sample 1 ./hello.txt 1 ./file-reader.c 1 
+</list>
+<list> errors
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> esac
+./.git/hooks/update.sample 2 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> escape
+./pa3/tokenizer.c 21 ./tokenizer.c 21 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> escaped
+./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> etc
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> evaluated
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> even
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> ever
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> every
+./readme.tex 4 
+</list>
+<list> everything
+./pa3/testplan.txt 6 ./testplan.txt 6 
+</list>
+<list> ex2
+./output.txt 4 ./hello.txt 4 
+</list>
+<list> examine
+./.git/hooks/pre-push.sample 2 
+</list>
+<list> example
+./output.txt 4 ./hello.txt 4 ./helloworld.txt 3 ./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/pre-rebase.sample 2 ./.git/hooks/commit-msg.sample 2 ./pa3/testplan.txt 1 ./pa3/sorted-list.h 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./testplan.txt 1 ./sorted-list.h 1 
+</list>
+<list> examples
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> exceptions
+./readme.log 1 
+</list>
+<list> exclude
+./.git/info/exclude 3 
+</list>
+<list> exec
+./.git/hooks/pre-commit.sample 2 ./.git/hooks/post-update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> exist
+./pa3/file-reader.c 5 ./file-reader.c 5 ./pa3/testplan.txt 2 ./testplan.txt 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> existing
+./pa3/sorted-list.h 1 ./.git/hooks/pre-push.sample 1 ./sorted-list.h 1 
+</list>
+<list> exists
+./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> exit
+./.git/hooks/update.sample 11 ./.git/hooks/pre-rebase.sample 7 ./.git/hooks/pre-push.sample 2 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/commit-msg.sample 2 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> exiting
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> exits
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> expect
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> expected
+./pa3/testplan.txt 11 ./testplan.txt 11 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> exploit
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> extended
+./readme.log 1 
+</list>
+<list> external
+./readme.log 5 
+</list>
+<list> extra
+./readme.log 1 
+</list>
+<list> extract
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> extracted
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> f
+./pa3/readme.pdf 3 ./.git/hooks/pre-rebase.sample 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> fact
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> fail
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> fails
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> failure
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> fall
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> false
+./.git/config 1 
+</list>
+<list> fclose
+./pa3/file-reader.c 2 ./file-reader.c 2 ./main.c 1 
+</list>
+<list> fcp
+./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/file-reader.c 4 ./file-reader.c 4 
+</list>
+<list> fetch
+./.git/config 1 
+</list>
+<list> few
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> fgets
+./pa3/tokenizer.c 5 ./tokenizer.c 5 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> fi
+./.git/hooks/update.sample 9 ./.git/hooks/pre-rebase.sample 4 ./.git/hooks/pre-push.sample 3 ./.git/hooks/pre-commit.sample 2 
+</list>
+<list> figure
+./readme.log 1 
+</list>
+<list> file
+./pa3/tokenizer.c 13 ./tokenizer.c 13 ./readme.tex 11 ./pa3/testplan.txt 9 ./testplan.txt 9 ./makefile 7 ./pa3/file-reader.c 7 ./file-reader.c 7 ./pa3/makefile 6 ./multipleLineFile.txt 6 ./tokenizer.h 4 ./pa3/tokenizer.h 4 ./.git/hooks/pre-commit.sample 4 ./file-reader.h 3 ./.git/hooks/prepare-commit-msg.sample 3 ./.git/hooks/update.sample 3 ./.git/hooks/commit-msg.sample 3 ./main.c 2 ./simpleTestDir/secondFile.txt 2 ./simpleTestDir/firstFile.txt 2 ./pa3/file-reader.h 2 ./.git/hooks/applypatch-msg.sample 2 ./readme.log 2 ./oneLineFile.txt 1 ./pa3/main.c 1 ./pa3/output.txt 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/description 1 ./index.txt 1 
+</list>
+<list> filecountpair
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 2 ./hashtable.h 2 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> filemode
+./.git/config 1 
+</list>
+<list> filename
+./pa3/file-reader.c 10 ./file-reader.c 8 ./pa3/file-reader.h 4 ./file-reader.h 3 
+</list>
+<list> filenames
+./.git/hooks/pre-commit.sample 2 
+</list>
+<list> filepath
+./pa3/file-reader.c 17 ./file-reader.c 17 ./main.c 7 ./pa3/main.c 7 ./hashtable.c 3 ./pa3/hashtable.c 3 ./pa3/hashtable.h 2 ./hashtable.h 2 ./file-reader.h 1 ./pa3/file-reader.h 1 
+</list>
+<list> files
+./readme.tex 6 ./pa3/testplan.txt 6 ./testplan.txt 6 ./.git/info/exclude 1 
+</list>
+<list> fill
+./pa3/sorted-list.h 9 ./sorted-list.h 9 ./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> filter
+./pa3/readme.pdf 1 ./readme.pdf 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> finding
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> finished
+./readme.tex 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> first
+./simpleTestDir/firstFile.txt 2 ./.git/hooks/prepare-commit-msg.sample 2 ./simpleTestDir/secondFile.txt 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> fix
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> flatedecode
+./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> followed
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> following
+./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/info/exclude 1 
+</list>
+<list> font
+./readme.log 28 
+</list>
+<list> fonts
+./readme.log 7 
+</list>
+<list> fopen
+./pa3/file-reader.c 3 ./file-reader.c 2 ./main.c 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> for
+./readme.log 15 ./pa3/tokenizer.c 9 ./tokenizer.c 9 ./readme.tex 6 ./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/sorted-list.h 2 ./.git/hooks/update.sample 2 ./sorted-list.h 2 ./main.c 1 ./pa3/main.c 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/info/exclude 1 
+</list>
+<list> fork
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> forked
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> forking
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> forks
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> form
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> format
+./readme.log 1 
+</list>
+<list> found
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> fp
+./pa3/file-reader.c 8 ./file-reader.c 8 
+</list>
+<list> fprintf
+./pa3/file-reader.c 3 ./file-reader.c 3 
+</list>
+<list> free
+./pa3/sorted-list.c 10 ./sorted-list.c 10 ./hashtable.c 5 ./pa3/hashtable.c 5 ./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> freeing
+./pa3/tokenizer.c 1 ./pa3/sorted-list.h 1 ./tokenizer.c 1 ./sorted-list.h 1 
+</list>
+<list> from
+./.git/hooks/pre-rebase.sample 6 ./pa3/tokenizer.c 4 ./pa3/sorted-list.h 4 ./tokenizer.c 4 ./sorted-list.h 4 ./readme.tex 2 ./.git/hooks/update.sample 2 ./pa3/sorted-list.c 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./.git/info/exclude 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 ./sorted-list.c 1 
+</list>
+<list> fully
+./.git/hooks/pre-rebase.sample 6 ./.git/packed-refs 1 
+</list>
+<list> function
+./pa3/sorted-list.h 16 ./sorted-list.h 16 ./pa3/tokenizer.c 5 ./tokenizer.c 5 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> functions
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> further
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> future
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> g
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 
+</list>
+<list> gcc
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 
+</list>
+<list> general
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> get
+./hashtable.c 2 ./readme.tex 2 ./pa3/hashtable.c 2 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./file-reader.c 1 
+</list>
+<list> getcwd
+./main.c 2 
+</list>
+<list> getting
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> git
+./.git/hooks/update.sample 12 ./.git/hooks/pre-rebase.sample 12 ./.git/hooks/pre-commit.sample 6 ./.git/hooks/prepare-commit-msg.sample 6 ./.git/hooks/pre-applypatch.sample 3 ./.git/hooks/commit-msg.sample 3 ./.git/hooks/applypatch-msg.sample 3 ./.git/hooks/pre-push.sample 2 ./.git/info/exclude 2 ./.git/config 2 ./.git/logs/refs/heads/master 2 ./.git/logs/refs/remotes/origin/HEAD 2 ./.git/logs/HEAD 2 ./.git/hooks/post-update.sample 1 
+</list>
+<list> github
+./.git/config 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> given
+./pa3/tokenizer.c 4 ./pa3/sorted-list.h 4 ./tokenizer.c 4 ./sorted-list.h 4 ./readme.tex 1 
+</list>
+<list> gmail
+./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> good
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> gpchc014
+./file-reader.h.gch 1 ./tokenizer.h.gch 1 ./hashtable.h.gch 1 ./sorted-list.h.gch 1 
+</list>
+<list> grep
+./.git/hooks/commit-msg.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> h
+./makefile 10 ./pa3/file-reader.c 10 ./file-reader.c 10 ./main.c 8 ./pa3/main.c 7 ./pa3/makefile 6 ./tokenizer.h 5 ./file-reader.h 5 ./pa3/tokenizer.c 5 ./pa3/hashtable.h 5 ./tokenizer.c 5 ./hashtable.h 5 ./pa3/tokenizer.h 4 ./pa3/file-reader.h 4 ./pa3/sorted-list.h 4 ./sorted-list.h 4 ./pa3/sorted-list.c 3 ./sorted-list.c 3 ./hashtable.c 1 ./pa3/output.txt 1 ./pa3/hashtable.c 1 ./pa3/readme.pdf 1 
+</list>
+<list> hamano
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> handle
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> happen
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> happens
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> hardcodes
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> has
+./.git/hooks/pre-rebase.sample 8 ./multipleLineFile.txt 5 ./.git/hooks/pre-push.sample 2 ./oneLineFile.txt 1 ./readme.tex 1 ./pa3/sorted-list.h 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 ./sorted-list.h 1 
+</list>
+<list> hash
+./hashtable.c 8 ./readme.tex 8 ./pa3/hashtable.c 8 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> hashtable
+./hashtable.c 35 ./pa3/hashtable.c 35 ./pa3/hashtable.h 13 ./hashtable.h 13 ./pa3/file-reader.c 8 ./file-reader.c 8 ./makefile 7 ./pa3/makefile 6 ./main.c 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/output.txt 1 
+</list>
+<list> hasn
+./.git/hooks/update.sample 1 
+</list>
+<list> have
+./.git/hooks/pre-rebase.sample 3 ./readme.tex 2 ./pa3/tokenizer.c 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./testplan.txt 1 
+</list>
+<list> head
+./pa3/sorted-list.c 19 ./sorted-list.c 19 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-rebase.sample 2 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> heads
+./.git/hooks/update.sample 2 ./.git/hooks/pre-rebase.sample 2 ./.git/config 2 ./.git/HEAD 1 
+</list>
+<list> hello
+./testDir/test.txt 1 ./output.txt 1 ./helloworld.txt 1 ./hello.txt 1 
+</list>
+<list> helloworld
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> here
+./testDir/example.txt 1 ./output.txt 1 ./helloworld.txt 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 ./readme.log 1 ./hello.txt 1 
+</list>
+<list> hex
+./pa3/tokenizer.c 14 ./tokenizer.c 14 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> hi
+./testDir/test2/test2.txt 1 ./output.txt 1 ./helloworld.txt 1 ./hello.txt 1 
+</list>
+<list> history
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> home
+./output.txt 12 
+</list>
+<list> hook
+./.git/hooks/commit-msg.sample 6 ./.git/hooks/prepare-commit-msg.sample 5 ./.git/hooks/applypatch-msg.sample 4 ./.git/hooks/pre-commit.sample 3 ./.git/hooks/update.sample 3 ./.git/hooks/pre-applypatch.sample 3 ./.git/hooks/pre-rebase.sample 3 ./.git/hooks/pre-push.sample 2 ./.git/hooks/post-update.sample 2 
+</list>
+<list> hooks
+./.git/hooks/update.sample 10 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/applypatch-msg.sample 2 
+</list>
+<list> how
+./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 ./readme.log 1 
+</list>
+<list> ht
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 3 ./pa3/file-reader.c 3 ./hashtable.h 3 ./file-reader.c 3 
+</list>
+<list> hyphenation
+./readme.log 2 
+</list>
+<list> i
+./hashtable.c 11 ./pa3/hashtable.c 11 ./pa3/tokenizer.c 6 ./tokenizer.c 6 ./.git/hooks/prepare-commit-msg.sample 2 ./pa3/readme.pdf 1 
+</list>
+<list> i1
+./pa3/sorted-list.c 2 ./sorted-list.c 2 
+</list>
+<list> i2
+./pa3/sorted-list.c 2 ./sorted-list.c 2 
+</list>
+<list> i7j
+./pa3/readme.pdf 1 
+</list>
+<list> idea
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> ident
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> identifies
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> if
+./pa3/tokenizer.c 36 ./tokenizer.c 36 ./pa3/sorted-list.c 25 ./sorted-list.c 25 ./hashtable.c 13 ./pa3/hashtable.c 13 ./.git/hooks/pre-rebase.sample 13 ./.git/hooks/update.sample 11 ./pa3/sorted-list.h 10 ./sorted-list.h 10 ./.git/hooks/pre-commit.sample 7 ./pa3/file-reader.c 6 ./file-reader.c 6 ./.git/hooks/pre-push.sample 5 ./.git/hooks/prepare-commit-msg.sample 3 ./main.c 2 ./readme.tex 2 ./pa3/main.c 2 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> ifndef
+./tokenizer.h 1 ./file-reader.h 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.h 1 ./pa3/hashtable.h 1 ./pa3/sorted-list.h 1 ./hashtable.h 1 ./sorted-list.h 1 
+</list>
+<list> ifs
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> ignores
+./pa3/testplan.txt 4 ./testplan.txt 4 
+</list>
+<list> ignoring
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> ii
+./file-reader.h.gch 1 ./tokenizer.h.gch 1 ./hashtable.h.gch 1 ./sorted-list.h.gch 1 
+</list>
+<list> ijj
+./pa3/readme.pdf 1 
+</list>
+<list> immutable
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> implement
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> implementation
+./pa3/sorted-list.h 9 ./sorted-list.h 9 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./readme.aux 1 ./readme.tex 1 
+</list>
+<list> importantly
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> in
+./pa3/sorted-list.h 17 ./sorted-list.h 17 ./readme.tex 12 ./.git/hooks/pre-rebase.sample 12 ./.git/hooks/update.sample 11 ./pa3/tokenizer.c 7 ./pa3/testplan.txt 7 ./tokenizer.c 7 ./testplan.txt 7 ./.git/hooks/pre-push.sample 3 ./.git/hooks/commit-msg.sample 2 ./simpleTestDir/firstFile.txt 1 ./hashtable.c 1 ./pa3/hashtable.c 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> include
+./pa3/file-reader.c 10 ./file-reader.c 10 ./main.c 8 ./pa3/main.c 7 ./pa3/tokenizer.c 5 ./tokenizer.c 5 ./file-reader.h 3 ./pa3/hashtable.h 3 ./pa3/sorted-list.c 3 ./hashtable.h 3 ./sorted-list.c 3 ./tokenizer.h 2 ./pa3/file-reader.h 2 ./hashtable.c 1 ./pa3/tokenizer.h 1 ./pa3/hashtable.c 1 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> includes
+./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> increase
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> increment
+./readme.tex 1 
+</list>
+<list> index
+./pa3/testplan.txt 11 ./testplan.txt 11 ./hashtable.c 7 ./pa3/hashtable.c 7 ./makefile 4 ./readme.tex 4 ./pa3/makefile 4 ./main.c 1 ./pa3/output.txt 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> indexer
+./readme.tex 2 ./main.c 1 ./pa3/main.c 1 ./pa3/testplan.txt 1 ./.git/config 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 ./testplan.txt 1 ./README.md 1 
+</list>
+<list> indirectly
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> info
+./readme.log 18 ./.git/hooks/post-update.sample 1 ./.git/info/exclude 1 
+</list>
+<list> information
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> initial
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> input
+./pa3/testplan.txt 17 ./readme.log 17 ./testplan.txt 17 ./readme.tex 2 ./main.c 1 ./pa3/main.c 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> inserts
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> int
+./hashtable.c 11 ./pa3/hashtable.c 11 ./pa3/tokenizer.c 11 ./tokenizer.c 11 ./pa3/sorted-list.c 9 ./pa3/sorted-list.h 9 ./sorted-list.c 9 ./sorted-list.h 9 ./pa3/hashtable.h 7 ./hashtable.h 7 ./tokenizer.h 3 ./pa3/tokenizer.h 3 ./main.c 2 ./pa3/main.c 2 ./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> integer
+./pa3/tokenizer.c 4 ./tokenizer.c 4 
+</list>
+<list> interrupt
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> into
+./.git/hooks/pre-rebase.sample 4 ./readme.tex 3 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./pa3/sorted-list.h 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./sorted-list.h 1 
+</list>
+<list> invalid
+./pa3/testplan.txt 6 ./testplan.txt 6 ./main.c 1 ./pa3/main.c 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> iq
+./pa3/readme.pdf 1 
+</list>
+<list> is
+./.git/hooks/pre-rebase.sample 21 ./pa3/tokenizer.c 19 ./tokenizer.c 19 ./readme.tex 16 ./pa3/testplan.txt 14 ./testplan.txt 14 ./pa3/sorted-list.h 12 ./sorted-list.h 12 ./.git/hooks/update.sample 9 ./.git/hooks/pre-push.sample 5 ./.git/hooks/prepare-commit-msg.sample 4 ./tokenizer.h 3 ./pa3/tokenizer.h 3 ./.git/hooks/pre-commit.sample 3 ./.git/hooks/commit-msg.sample 3 ./simpleTestDir/secondFile.txt 2 ./readme.log 2 ./simpleTestDir/firstFile.txt 1 ./testDir/test2/test3/ex2.txt 1 ./testDir/example.txt 1 ./output.txt 1 ./helloworld.txt 1 ./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/file-reader.c 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./index.txt 1 ./hello.txt 1 ./file-reader.c 1 
+</list>
+<list> isalnum
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> isdigit
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> isdir
+./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> islower
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> issuing
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> isxdigit
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> it
+./.git/hooks/pre-rebase.sample 22 ./pa3/tokenizer.c 13 ./tokenizer.c 13 ./pa3/sorted-list.h 9 ./sorted-list.h 9 ./readme.tex 8 ./.git/hooks/pre-commit.sample 3 ./pa3/sorted-list.c 2 ./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/update.sample 2 ./.git/hooks/commit-msg.sample 2 ./sorted-list.c 2 ./pa3/file-reader.c 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./readme.log 1 ./file-reader.c 1 
+</list>
+<list> item
+./pa3/sorted-list.c 3 ./sorted-list.c 3 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> iter
+./pa3/sorted-list.c 16 ./sorted-list.c 16 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> iterate
+./readme.tex 1 
+</list>
+<list> iterator
+./pa3/sorted-list.h 9 ./sorted-list.h 9 ./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/sorted-list.c 3 ./sorted-list.c 3 ./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> its
+./readme.tex 3 ./pa3/tokenizer.c 2 ./pa3/testplan.txt 2 ./tokenizer.c 2 ./testplan.txt 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> ive
+./readme.log 1 
+</list>
+<list> j
+./readme.pdf 1 
+</list>
+<list> j21wang
+./.git/config 1 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> job
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> joyce
+./main.c 1 ./tokenizer.h 1 ./testDir/test2/test3/ex2.txt 1 ./testDir/example.txt 1 ./output.txt 1 ./helloworld.txt 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/tokenizer.h 1 ./pa3/tokenizer.c 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./testplan.txt 1 ./hello.txt 1 
+</list>
+<list> jtxd
+./pa3/readme.pdf 1 
+</list>
+<list> junio
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> just
+./readme.tex 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> justdirs
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> k
+./readme.pdf 1 
+</list>
+<list> keep
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> kept
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> kevin
+./main.c 1 ./tokenizer.h 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/tokenizer.h 1 ./pa3/tokenizer.c 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./testplan.txt 1 
+</list>
+<list> kevinsung
+./output.txt 12 ./.git/logs/refs/heads/master 1 ./.git/logs/refs/remotes/origin/HEAD 1 ./.git/logs/HEAD 1 
+</list>
+<list> know
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> l
+./pa3/readme.pdf 2 ./readme.pdf 1 
+</list>
+<list> languages
+./readme.log 1 
+</list>
+<list> last
+./pa3/sorted-list.c 1 ./multipleLineFile.txt 1 ./sorted-list.c 1 
+</list>
+<list> latex
+./readme.log 21 
+</list>
+<list> latex2e
+./readme.log 1 
+</list>
+<list> lc
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> least
+./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> left
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> length
+./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> let
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> levels
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> lib
+./readme.log 1 
+</list>
+<list> like
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> line
+./readme.log 18 ./pa3/tokenizer.c 16 ./tokenizer.c 16 ./multipleLineFile.txt 11 ./pa3/file-reader.c 3 ./file-reader.c 3 ./oneLineFile.txt 2 ./.git/hooks/update.sample 2 ./tokenizer.h 1 ./pa3/tokenizer.h 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> lines
+./.git/hooks/commit-msg.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/info/exclude 1 
+</list>
+<list> linked
+./readme.tex 1 
+</list>
+<list> linkedlist
+./hashtable.c 9 ./pa3/hashtable.c 9 ./pa3/hashtable.h 4 ./hashtable.h 4 
+</list>
+<list> list
+./pa3/output.txt 41 ./pa3/sorted-list.c 35 ./sorted-list.c 35 ./pa3/sorted-list.h 27 ./sorted-list.h 27 ./output.txt 20 ./helloworld.txt 20 ./hello.txt 20 ./hashtable.c 14 ./pa3/hashtable.c 14 ./readme.tex 9 ./makefile 8 ./.git/hooks/pre-rebase.sample 8 ./pa3/makefile 7 ./pa3/file-reader.c 6 ./file-reader.c 6 ./pa3/hashtable.h 3 ./hashtable.h 3 ./main.c 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/file-reader.h 1 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> lists
+./readme.tex 1 
+</list>
+<list> live
+./readme.log 1 
+</list>
+<list> loaded
+./readme.log 6 
+</list>
+<list> local
+./.git/hooks/pre-push.sample 8 
+</list>
+<list> log
+./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> logallrefupdates
+./.git/config 1 
+</list>
+<list> long
+./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> longer
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> look
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> lowercase
+./pa3/testplan.txt 4 ./testplan.txt 4 
+</list>
+<list> lr
+./pa3/readme.pdf 1 
+</list>
+<list> ls
+./.git/info/exclude 1 
+</list>
+<list> lstat
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> m
+./readme.log 6 ./pa3/readme.pdf 1 
+</list>
+<list> mail
+./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> main
+./makefile 5 ./pa3/makefile 5 ./main.c 2 ./pa3/main.c 2 ./pa3/tokenizer.c 2 ./tokenizer.c 2 ./hashtable.c 1 ./readme.tex 1 ./pa3/output.txt 1 ./pa3/hashtable.c 1 
+</list>
+<list> mainiterator
+./pa3/file-reader.c 3 ./file-reader.c 3 
+</list>
+<list> mainlistiterator
+./hashtable.c 4 ./pa3/hashtable.c 4 
+</list>
+<list> maintained
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> maintaining
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> make
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> makefile
+./pa3/output.txt 20 
+</list>
+<list> makes
+./pa3/testplan.txt 4 ./testplan.txt 4 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> maketitle
+./readme.tex 1 
+</list>
+<list> malloc
+./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/sorted-list.c 4 ./sorted-list.c 4 ./pa3/tokenizer.c 3 ./pa3/file-reader.c 3 ./tokenizer.c 3 ./file-reader.c 3 
+</list>
+<list> many
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> map
+./.git/hooks/pre-rebase.sample 2 ./readme.log 2 
+</list>
+<list> master
+./.git/hooks/pre-rebase.sample 24 ./.git/config 2 ./.git/refs/remotes/origin/HEAD 1 ./.git/packed-refs 1 ./.git/HEAD 1 
+</list>
+<list> match
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> max
+./pa3/tokenizer.c 4 ./tokenizer.c 4 ./readme.log 3 
+</list>
+<list> may
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> mechanism
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> member
+./pa3/tokenizer.c 3 ./tokenizer.c 3 
+</list>
+<list> memory
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./readme.log 3 ./readme.aux 1 ./readme.tex 1 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> merge
+./.git/hooks/prepare-commit-msg.sample 2 ./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./.git/hooks/pre-rebase.sample 1 ./.git/config 1 ./file-reader.c 1 
+</list>
+<list> merged
+./.git/hooks/pre-rebase.sample 15 
+</list>
+<list> message
+./.git/hooks/prepare-commit-msg.sample 6 ./.git/hooks/commit-msg.sample 5 ./.git/hooks/applypatch-msg.sample 4 ./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> mistakes
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> mode
+./pa3/file-reader.c 2 ./file-reader.c 2 ./readme.log 1 
+</list>
+<list> modified
+./readme.tex 1 ./pa3/sorted-list.h 1 ./.git/hooks/update.sample 1 ./sorted-list.h 1 
+</list>
+<list> modifies
+./pa3/tokenizer.c 9 ./tokenizer.c 9 
+</list>
+<list> modifying
+./.git/hooks/update.sample 1 
+</list>
+<list> more
+./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> mostly
+./.git/info/exclude 1 
+</list>
+<list> msg
+./.git/hooks/pre-rebase.sample 4 ./.git/hooks/applypatch-msg.sample 3 ./.git/hooks/commit-msg.sample 2 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> much
+./readme.log 1 
+</list>
+<list> multiletter
+./readme.log 1 
+</list>
+<list> multiplelinefile
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> must
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> my
+./.git/hooks/pre-rebase.sample 4 ./testDir/test2/test3/ex2.txt 1 ./output.txt 1 ./helloworld.txt 1 ./hello.txt 1 
+</list>
+<list> n
+./pa3/tokenizer.c 10 ./tokenizer.c 10 ./pa3/file-reader.c 8 ./file-reader.c 8 ./readme.log 5 ./main.c 4 ./.git/hooks/pre-rebase.sample 4 ./hashtable.c 3 ./pa3/hashtable.c 3 ./readme.tex 2 ./.git/hooks/pre-push.sample 2 ./.git/hooks/prepare-commit-msg.sample 2 ./pa3/main.c 1 ./readme.pdf 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> name
+./pa3/file-reader.c 8 ./file-reader.c 8 ./.git/hooks/prepare-commit-msg.sample 3 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-rebase.sample 2 ./testDir/test2/test3/ex2.txt 1 ./output.txt 1 ./helloworld.txt 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/description 1 ./testplan.txt 1 ./hello.txt 1 
+</list>
+<list> named
+./.git/hooks/pre-push.sample 1 ./readme.log 1 
+</list>
+<list> names
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> ne
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> necessary
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> need
+./pa3/sorted-list.h 10 ./sorted-list.h 10 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-rebase.sample 3 ./readme.tex 1 
+</list>
+<list> needed
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> never
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> new
+./pa3/tokenizer.c 4 ./tokenizer.c 4 ./pa3/sorted-list.h 3 ./sorted-list.h 3 ./.git/hooks/pre-push.sample 2 ./readme.tex 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> newlist
+./hashtable.c 3 ./pa3/hashtable.c 3 
+</list>
+<list> newnode
+./hashtable.c 6 ./pa3/hashtable.c 6 
+</list>
+<list> newobj
+./pa3/sorted-list.c 7 ./sorted-list.c 7 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> newobjectnode
+./pa3/sorted-list.c 13 ./sorted-list.c 13 
+</list>
+<list> newrev
+./.git/hooks/update.sample 11 
+</list>
+<list> next
+./.git/hooks/pre-rebase.sample 21 ./pa3/sorted-list.c 19 ./sorted-list.c 19 ./hashtable.c 5 ./pa3/hashtable.c 5 ./pa3/tokenizer.c 3 ./pa3/sorted-list.h 3 ./tokenizer.c 3 ./sorted-list.h 3 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> no
+./.git/hooks/pre-rebase.sample 3 ./pa3/sorted-list.c 2 ./pa3/testplan.txt 2 ./sorted-list.c 2 ./testplan.txt 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> node
+./pa3/sorted-list.c 39 ./sorted-list.c 39 ./pa3/sorted-list.h 5 ./sorted-list.h 5 
+</list>
+<list> non
+./.git/hooks/pre-commit.sample 4 ./pa3/testplan.txt 3 ./testplan.txt 3 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> nonalphanum
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> not
+./.git/hooks/pre-rebase.sample 18 ./.git/hooks/update.sample 6 ./pa3/tokenizer.c 4 ./tokenizer.c 4 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-push.sample 1 ./testplan.txt 1 
+</list>
+<list> note
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/testplan.txt 1 ./.git/hooks/pre-commit.sample 1 ./testplan.txt 1 
+</list>
+<list> nothing
+./pa3/tokenizer.c 8 ./tokenizer.c 8 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> now
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> ntvbrfa
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> null
+./pa3/sorted-list.c 28 ./sorted-list.c 28 ./pa3/tokenizer.c 24 ./tokenizer.c 24 ./hashtable.c 22 ./pa3/hashtable.c 22 ./pa3/file-reader.c 7 ./file-reader.c 7 ./pa3/sorted-list.h 5 ./sorted-list.h 5 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> number
+./readme.tex 3 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> numberline
+./readme.aux 2 
+</list>
+<list> o
+./.git/hooks/pre-rebase.sample 21 ./makefile 17 ./pa3/makefile 17 ./readme.tex 2 ./.git/hooks/update.sample 2 ./pa3/output.txt 1 ./pa3/readme.pdf 1 
+</list>
+<list> oa
+./.git/info/exclude 1 
+</list>
+<list> obj
+./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> object
+./pa3/sorted-list.h 12 ./sorted-list.h 12 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-commit.sample 1 ./readme.log 1 
+</list>
+<list> objects
+./pa3/sorted-list.h 6 ./sorted-list.h 6 ./readme.log 2 
+</list>
+<list> occurs
+./readme.tex 2 
+</list>
+<list> oct
+./pa3/tokenizer.c 17 ./tokenizer.c 17 ./tokenizer.h 3 ./pa3/tokenizer.h 3 ./readme.log 1 
+</list>
+<list> octal
+./pa3/tokenizer.c 4 ./tokenizer.c 4 
+</list>
+<list> of
+./pa3/tokenizer.c 17 ./tokenizer.c 17 ./readme.tex 14 ./readme.log 14 ./pa3/sorted-list.h 13 ./sorted-list.h 13 ./pa3/testplan.txt 7 ./testplan.txt 7 ./.git/hooks/pre-rebase.sample 5 ./.git/hooks/prepare-commit-msg.sample 4 ./.git/hooks/pre-push.sample 2 ./.git/hooks/update.sample 2 ./readme.aux 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> off
+./.git/hooks/commit-msg.sample 5 ./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> offending
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> offset
+./pa3/tokenizer.c 6 ./tokenizer.c 6 
+</list>
+<list> ok
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> okay
+./readme.log 6 
+</list>
+<list> old
+./.git/hooks/update.sample 1 
+</list>
+<list> oldrev
+./.git/hooks/update.sample 5 
+</list>
+<list> oml
+./readme.log 1 
+</list>
+<list> oms
+./readme.log 1 
+</list>
+<list> omx
+./readme.log 1 
+</list>
+<list> on
+./readme.log 18 ./pa3/tokenizer.c 6 ./tokenizer.c 6 ./.git/hooks/pre-rebase.sample 3 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> once
+./.git/hooks/pre-rebase.sample 3 ./readme.tex 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> one
+./multipleLineFile.txt 10 ./pa3/testplan.txt 4 ./testplan.txt 4 ./oneLineFile.txt 2 ./readme.tex 2 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./simpleTestDir/secondFile.txt 1 ./pa3/sorted-list.c 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./sorted-list.c 1 
+</list>
+<list> oneline
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> onelinefile
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> only
+./multipleLineFile.txt 10 ./.git/hooks/pre-rebase.sample 4 ./oneLineFile.txt 2 ./readme.tex 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-commit.sample 1 ./testplan.txt 1 
+</list>
+<list> opaque
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> opendir
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> openout1
+./readme.log 1 
+</list>
+<list> option
+./readme.log 1 
+</list>
+<list> or
+./.git/hooks/pre-rebase.sample 3 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> order
+./pa3/sorted-list.h 4 ./sorted-list.h 4 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> ordering
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> origin
+./.git/config 3 ./.git/refs/remotes/origin/HEAD 1 ./.git/packed-refs 1 
+</list>
+<list> original
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> ot
+./pa3/readme.pdf 1 
+</list>
+<list> ot1
+./readme.log 1 
+</list>
+<list> other
+./.git/hooks/pre-rebase.sample 3 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> others
+./.git/hooks/pre-rebase.sample 1 ./.git/info/exclude 1 
+</list>
+<list> our
+./readme.tex 4 
+</list>
+<list> out
+./readme.log 10 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> outfile
+./pa3/file-reader.c 5 ./main.c 4 ./file-reader.c 4 ./file-reader.h 1 
+</list>
+<list> output
+./pa3/testplan.txt 49 ./testplan.txt 49 ./.git/hooks/prepare-commit-msg.sample 2 ./readme.log 2 ./readme.tex 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> outputpairstofile
+./main.c 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/file-reader.h 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> outputted
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> outputting
+./main.c 1 
+</list>
+<list> outputtofile
+./file-reader.h 1 ./pa3/file-reader.h 1 
+</list>
+<list> over
+./.git/hooks/post-update.sample 1 
+</list>
+<list> overwritten
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> p
+./readme.tex 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> p1
+./pa3/sorted-list.c 6 ./sorted-list.c 6 ./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/sorted-list.h 3 ./sorted-list.h 3 ./pa3/hashtable.h 2 ./hashtable.h 2 
+</list>
+<list> p2
+./pa3/sorted-list.c 6 ./sorted-list.c 6 ./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/sorted-list.h 3 ./sorted-list.h 3 ./pa3/hashtable.h 2 ./hashtable.h 2 
+</list>
+<list> pack
+./.git/hooks/update.sample 1 ./.git/objects/pack/pack-ec6e1860f7c3db4ba1b11c74eca9ce74367b3c15.pack 1 ./.git/packed-refs 1 
+</list>
+<list> packed
+./.git/hooks/post-update.sample 1 
+</list>
+<list> page
+./readme.log 1 
+</list>
+<list> pairiterator
+./pa3/file-reader.c 3 ./file-reader.c 3 
+</list>
+<list> pairs
+./readme.tex 4 
+</list>
+<list> paragraph
+./readme.log 1 
+</list>
+<list> parameters
+./pa3/tokenizer.c 9 ./tokenizer.c 9 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> parse
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> parsing
+./readme.log 1 
+</list>
+<list> part
+./pa3/sorted-list.h 9 ./sorted-list.h 9 ./pa3/tokenizer.c 4 ./tokenizer.c 4 ./.git/hooks/prepare-commit-msg.sample 1 ./readme.log 1 
+</list>
+<list> particular
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> patches
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> path
+./pa3/file-reader.c 8 ./file-reader.c 8 ./pa3/testplan.txt 5 ./testplan.txt 5 ./file-reader.h 1 ./pa3/file-reader.h 1 
+</list>
+<list> patterns
+./.git/info/exclude 1 ./readme.log 1 
+</list>
+<list> pdf
+./readme.log 4 ./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> pdflatex
+./readme.log 1 
+</list>
+<list> pdftex
+./readme.log 3 
+</list>
+<list> pe
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> peeled
+./.git/packed-refs 2 
+</list>
+<list> people
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> performed
+./readme.tex 1 ./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> perhaps
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> periods
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> perl
+./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> perror
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> pfb
+./readme.log 5 
+</list>
+<list> placed
+./readme.tex 2 
+</list>
+<list> platform
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> platforms
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> point
+./.git/hooks/pre-rebase.sample 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> pointer
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> pointing
+./pa3/sorted-list.c 3 ./sorted-list.c 3 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> portability
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> portable
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> position
+./pa3/tokenizer.c 40 ./tokenizer.c 40 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> positions
+./readme.log 1 
+</list>
+<list> post
+./.git/hooks/post-update.sample 1 
+</list>
+<list> pq
+./readme.tex 1 
+</list>
+<list> pre
+./.git/hooks/pre-applypatch.sample 3 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> prepare
+./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/post-update.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> pretty
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> prev
+./hashtable.c 13 ./pa3/hashtable.c 13 
+</list>
+<list> prevent
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> print
+./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/pre-rebase.sample 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> printable
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> printed
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> printf
+./pa3/file-reader.c 6 ./file-reader.c 6 ./pa3/tokenizer.c 5 ./tokenizer.c 5 ./main.c 4 ./pa3/main.c 1 
+</list>
+<list> prints
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> problems
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> processed
+./readme.tex 3 
+</list>
+<list> processing
+./readme.tex 1 
+</list>
+<list> program
+./readme.tex 2 
+</list>
+<list> progress
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> project
+./.git/hooks/update.sample 1 ./.git/info/exclude 1 
+</list>
+<list> projectdesc
+./.git/hooks/update.sample 2 
+</list>
+<list> projects
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> propagate
+./.git/hooks/update.sample 1 
+</list>
+<list> provide
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> ptrcount
+./pa3/sorted-list.c 22 ./sorted-list.c 22 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> public
+./readme.log 5 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> publish
+./.git/hooks/pre-rebase.sample 6 
+</list>
+<list> published
+./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> publishing
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> purpose
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> push
+./.git/hooks/pre-push.sample 4 
+</list>
+<list> pushed
+./.git/hooks/pre-push.sample 4 
+</list>
+<list> pushing
+./.git/hooks/pre-push.sample 2 
+</list>
+<list> put
+./readme.tex 2 
+</list>
+<list> q
+./pa3/readme.pdf 3 ./readme.tex 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> qs
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> r
+./pa3/readme.pdf 3 ./pa3/tokenizer.c 2 ./pa3/file-reader.c 2 ./tokenizer.c 2 ./.git/hooks/prepare-commit-msg.sample 2 ./file-reader.c 2 ./readme.pdf 1 
+</list>
+<list> r8
+./readme.pdf 1 
+</list>
+<list> range
+./.git/hooks/pre-push.sample 3 ./.git/hooks/pre-commit.sample 3 
+</list>
+<list> rarely
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> rather
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> reached
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> read
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> readdir
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> reader
+./makefile 7 ./pa3/makefile 6 ./file-reader.h 2 ./pa3/file-reader.h 2 ./main.c 1 ./pa3/main.c 1 ./pa3/output.txt 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> readfile
+./file-reader.h 1 ./pa3/file-reader.h 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> readme
+./readme.log 6 
+</list>
+<list> readwordsfromfile
+./pa3/file-reader.c 4 ./file-reader.c 4 ./file-reader.h 1 ./pa3/file-reader.h 1 
+</list>
+<list> ready
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> really
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> rebase
+./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> rebased
+./.git/hooks/pre-rebase.sample 5 
+</list>
+<list> rebasing
+./.git/hooks/pre-rebase.sample 4 
+</list>
+<list> receive
+./.git/hooks/update.sample 1 
+</list>
+<list> recursively
+./readme.tex 1 
+</list>
+<list> redirect
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> ref
+./.git/hooks/pre-push.sample 5 ./.git/hooks/update.sample 4 ./.git/hooks/pre-rebase.sample 2 ./.git/refs/remotes/origin/HEAD 1 ./.git/HEAD 1 
+</list>
+<list> refname
+./.git/hooks/update.sample 10 
+</list>
+<list> refs
+./.git/hooks/update.sample 8 ./.git/config 3 ./.git/hooks/pre-rebase.sample 2 ./.git/packed-refs 2 ./.git/refs/remotes/origin/HEAD 1 ./.git/HEAD 1 
+</list>
+<list> refuse
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> related
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> relax
+./readme.aux 1 
+</list>
+<list> remote
+./.git/hooks/pre-push.sample 10 ./.git/config 2 
+</list>
+<list> remotely
+./.git/hooks/update.sample 1 
+</list>
+<list> remotes
+./.git/hooks/update.sample 2 ./.git/refs/remotes/origin/HEAD 1 ./.git/config 1 ./.git/packed-refs 1 
+</list>
+<list> remove
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> removed
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> removes
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> rename
+./.git/hooks/pre-commit.sample 2 ./.git/hooks/post-update.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> repository
+./.git/hooks/update.sample 11 ./.git/description 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 
+</list>
+<list> repositoryformatversion
+./.git/config 1 
+</list>
+<list> representation
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> represented
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> represents
+./readme.tex 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> required
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> responsible
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> restricted
+./readme.log 1 
+</list>
+<list> result
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> resulting
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> results
+./readme.tex 1 
+</list>
+<list> return
+./pa3/tokenizer.c 23 ./tokenizer.c 23 ./pa3/sorted-list.c 22 ./sorted-list.c 22 ./hashtable.c 15 ./pa3/hashtable.c 15 ./pa3/file-reader.c 4 ./file-reader.c 4 ./main.c 2 ./pa3/main.c 2 ./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> returned
+./pa3/tokenizer.c 1 ./pa3/sorted-list.h 1 ./tokenizer.c 1 ./sorted-list.h 1 
+</list>
+<list> returning
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> returns
+./pa3/tokenizer.c 16 ./tokenizer.c 16 ./pa3/sorted-list.h 9 ./sorted-list.h 9 ./readme.tex 1 
+</list>
+<list> rev
+./.git/hooks/pre-rebase.sample 8 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> rewind
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> rewound
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> rf
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 
+</list>
+<list> rhz
+./readme.pdf 1 
+</list>
+<list> right
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> rm
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 
+</list>
+<list> run
+./.git/hooks/update.sample 2 ./readme.tex 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> running
+./readme.tex 2 ./readme.aux 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> s
+./pa3/file-reader.c 12 ./file-reader.c 12 ./.git/hooks/prepare-commit-msg.sample 5 ./main.c 3 ./pa3/testplan.txt 2 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/update.sample 2 ./testplan.txt 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./readme.pdf 1 ./multipleLineFile.txt 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./readme.log 1 
+</list>
+<list> s1
+./pa3/sorted-list.c 7 ./sorted-list.c 7 ./hashtable.c 2 ./pa3/hashtable.c 2 
+</list>
+<list> s2
+./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/sorted-list.c 2 ./sorted-list.c 2 
+</list>
+<list> safeguards
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> safety
+./.git/hooks/update.sample 1 
+</list>
+<list> same
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> sample
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> scan
+./pa3/file-reader.c 3 ./file-reader.c 3 ./main.c 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/file-reader.h 1 
+</list>
+<list> scandir
+./main.c 2 
+</list>
+<list> scans
+./readme.tex 1 
+</list>
+<list> script
+./.git/hooks/pre-push.sample 2 ./.git/hooks/update.sample 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> second
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./simpleTestDir/secondFile.txt 1 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> section
+./readme.aux 2 ./readme.tex 2 ./readme.log 1 
+</list>
+<list> sed
+./.git/hooks/commit-msg.sample 2 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 
+</list>
+<list> separate
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> separator
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> sequence
+./pa3/tokenizer.c 4 ./tokenizer.c 4 
+</list>
+<list> sequences
+./readme.log 1 
+</list>
+<list> series
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> server
+./.git/hooks/post-update.sample 1 
+</list>
+<list> set
+./pa3/tokenizer.c 4 ./tokenizer.c 4 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 ./.git/info/exclude 1 
+</list>
+<list> sets
+./.git/hooks/update.sample 5 
+</list>
+<list> setup
+./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> sh
+./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/applypatch-msg.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/update.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> sha
+./.git/hooks/pre-push.sample 7 
+</list>
+<list> sha1
+./.git/hooks/pre-push.sample 2 ./.git/hooks/update.sample 2 
+</list>
+<list> shar
+./readme.log 1 
+</list>
+<list> share
+./readme.log 6 
+</list>
+<list> short
+./.git/hooks/update.sample 2 
+</list>
+<list> should
+./pa3/tokenizer.c 4 ./pa3/sorted-list.h 4 ./tokenizer.c 4 ./sorted-list.h 4 ./.git/hooks/pre-rebase.sample 2 ./pa3/testplan.txt 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./testplan.txt 1 
+</list>
+<list> show
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> shows
+./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> signed
+./.git/hooks/commit-msg.sample 5 ./.git/hooks/prepare-commit-msg.sample 2 
+</list>
+<list> simple
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> simpletestdir
+./pa3/testplan.txt 2 ./testplan.txt 2 ./simpleTestDir/firstFile.txt 1 
+</list>
+<list> sin
+./pa3/readme.pdf 1 
+</list>
+<list> since
+./pa3/testplan.txt 1 ./pa3/sorted-list.h 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 ./testplan.txt 1 ./sorted-list.h 1 
+</list>
+<list> single
+./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> size
+./pa3/sorted-list.c 11 ./sorted-list.c 11 ./readme.log 6 ./hashtable.c 5 ./pa3/hashtable.c 5 ./pa3/hashtable.h 1 ./pa3/sorted-list.h 1 ./hashtable.h 1 ./sorted-list.h 1 
+</list>
+<list> size10
+./readme.log 2 
+</list>
+<list> sizeof
+./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/sorted-list.c 4 ./sorted-list.c 4 ./pa3/tokenizer.c 3 ./pa3/file-reader.c 3 ./tokenizer.c 3 ./file-reader.c 3 
+</list>
+<list> skip41
+./readme.log 1 
+</list>
+<list> skip42
+./readme.log 1 
+</list>
+<list> slcreate
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./main.c 1 ./hashtable.c 1 ./pa3/main.c 1 ./pa3/hashtable.c 1 ./pa3/sorted-list.c 1 ./pa3/file-reader.c 1 ./sorted-list.c 1 ./file-reader.c 1 
+</list>
+<list> slcreateiterator
+./pa3/sorted-list.h 3 ./pa3/file-reader.c 3 ./sorted-list.h 3 ./file-reader.c 3 ./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> sldestroy
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./main.c 1 ./pa3/main.c 1 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> sldestroyiterator
+./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> slinsert
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> slip
+./pa3/sorted-list.c 4 ./sorted-list.c 4 
+</list>
+<list> slnextitem
+./pa3/sorted-list.h 4 ./sorted-list.h 4 ./pa3/file-reader.c 3 ./file-reader.c 3 ./hashtable.c 2 ./pa3/hashtable.c 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> slremove
+./pa3/sorted-list.h 3 ./sorted-list.h 3 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> smaller
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> so
+./readme.tex 2 ./.git/hooks/pre-rebase.sample 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> sob
+./.git/hooks/prepare-commit-msg.sample 3 ./.git/hooks/commit-msg.sample 3 
+</list>
+<list> solaris
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> some
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> sort
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/commit-msg.sample 1 
+</list>
+<list> sorted
+./pa3/sorted-list.h 13 ./sorted-list.h 13 ./makefile 8 ./pa3/makefile 7 ./readme.tex 4 ./pa3/sorted-list.c 2 ./sorted-list.c 2 ./main.c 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/output.txt 1 ./pa3/file-reader.h 1 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./file-reader.c 1 
+</list>
+<list> sortedlist
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> sortedlistiterator
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> sortedlistiteratorptr
+./pa3/sorted-list.c 5 ./sorted-list.c 5 ./pa3/sorted-list.h 4 ./sorted-list.h 4 ./pa3/file-reader.c 3 ./file-reader.c 3 ./hashtable.c 2 ./pa3/hashtable.c 2 
+</list>
+<list> sortedlistitert
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> sortedlistptr
+./pa3/sorted-list.c 7 ./pa3/sorted-list.h 7 ./sorted-list.c 7 ./sorted-list.h 7 ./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 4 ./pa3/file-reader.c 4 ./hashtable.h 4 ./file-reader.c 4 ./file-reader.h 3 ./pa3/file-reader.h 3 ./main.c 1 ./pa3/main.c 1 
+</list>
+<list> sortedlistt
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> source
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> space
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./readme.tex 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> spaces
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> special
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> specified
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> specifies
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> split
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> square
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> squashed
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> st
+./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> stack
+./readme.log 1 
+</list>
+<list> standard
+./readme.log 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> start
+./pa3/tokenizer.c 8 ./tokenizer.c 8 ./.git/info/exclude 1 
+</list>
+<list> starting
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> starts
+./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> stat
+./pa3/file-reader.c 6 ./file-reader.c 6 
+</list>
+<list> statbuf
+./pa3/file-reader.c 3 ./file-reader.c 3 
+</list>
+<list> statistics
+./readme.log 1 
+</list>
+<list> status
+./.git/hooks/prepare-commit-msg.sample 4 ./.git/hooks/pre-push.sample 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> staying
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> stderr
+./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> stdio
+./main.c 1 ./tokenizer.h 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/tokenizer.c 1 ./pa3/sorted-list.c 1 ./pa3/file-reader.c 1 ./tokenizer.c 1 ./sorted-list.c 1 ./file-reader.c 1 
+</list>
+<list> stdlib
+./main.c 1 ./tokenizer.h 1 ./file-reader.h 1 ./pa3/main.c 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.h 1 ./pa3/tokenizer.c 1 ./pa3/hashtable.h 1 ./pa3/sorted-list.h 1 ./pa3/file-reader.c 1 ./tokenizer.c 1 ./hashtable.h 1 ./sorted-list.h 1 ./file-reader.c 1 
+</list>
+<list> still
+./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> stop
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> store
+./readme.tex 1 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> strcat
+./pa3/file-reader.c 4 ./file-reader.c 4 
+</list>
+<list> strcmp
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/file-reader.c 2 ./file-reader.c 2 ./pa3/sorted-list.c 1 ./sorted-list.c 1 
+</list>
+<list> strcpy
+./pa3/file-reader.c 2 ./file-reader.c 2 
+</list>
+<list> stream
+./pa3/tokenizer.c 6 ./tokenizer.c 6 ./pa3/readme.pdf 1 ./readme.pdf 1 ./readme.log 1 
+</list>
+<list> strictly
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> string
+./pa3/tokenizer.c 37 ./tokenizer.c 37 ./tokenizer.h 2 ./hashtable.c 2 ./pa3/tokenizer.h 2 ./pa3/hashtable.c 2 ./pa3/hashtable.h 2 ./hashtable.h 2 ./main.c 1 ./pa3/main.c 1 ./pa3/sorted-list.c 1 ./pa3/file-reader.c 1 ./readme.log 1 ./sorted-list.c 1 ./file-reader.c 1 
+</list>
+<list> strings
+./readme.log 1 
+</list>
+<list> strlen
+./pa3/tokenizer.c 7 ./tokenizer.c 7 ./main.c 2 ./pa3/main.c 2 
+</list>
+<list> strncpy
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> struct
+./pa3/hashtable.h 6 ./pa3/sorted-list.h 6 ./hashtable.h 6 ./sorted-list.h 6 ./pa3/tokenizer.c 4 ./pa3/sorted-list.c 4 ./pa3/file-reader.c 4 ./tokenizer.c 4 ./sorted-list.c 4 ./file-reader.c 4 ./tokenizer.h 2 ./pa3/tokenizer.h 2 
+</list>
+<list> structures
+./readme.tex 1 
+</list>
+<list> stupid
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> subparagraph
+./readme.log 1 
+</list>
+<list> subsection
+./readme.log 1 
+</list>
+<list> subset
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> subsubsection
+./readme.log 1 
+</list>
+<list> succeeds
+./pa3/sorted-list.h 4 ./sorted-list.h 4 ./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> success
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> such
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> suited
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> sung
+./main.c 1 ./tokenizer.h 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/tokenizer.h 1 ./pa3/tokenizer.c 1 ./pa3/testplan.txt 1 ./tokenizer.c 1 ./testplan.txt 1 
+</list>
+<list> supplied
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> supply
+./.git/hooks/update.sample 1 
+</list>
+<list> sy
+./readme.pdf 1 
+</list>
+<list> symbolic
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> sys
+./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> t
+./.git/hooks/update.sample 7 ./pa3/readme.pdf 4 ./readme.pdf 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/prepare-commit-msg.sample 1 ./readme.log 1 
+</list>
+<list> t1
+./readme.log 1 
+</list>
+<list> table
+./hashtable.c 8 ./readme.tex 8 ./pa3/hashtable.c 8 ./pa3/hashtable.h 1 ./hashtable.h 1 ./readme.log 1 
+</list>
+<list> tag
+./.git/hooks/update.sample 10 
+</list>
+<list> tags
+./.git/hooks/update.sample 8 
+</list>
+<list> taken
+./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> takes
+./readme.tex 1 
+</list>
+<list> te
+./readme.log 1 
+</list>
+<list> temp
+./pa3/sorted-list.c 24 ./sorted-list.c 24 
+</list>
+<list> template
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> tend
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> test
+./.git/hooks/pre-rebase.sample 5 ./output.txt 2 ./helloworld.txt 2 ./pa3/testplan.txt 2 ./testplan.txt 2 ./hello.txt 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./index.txt 1 
+</list>
+<list> test2
+./output.txt 9 ./hello.txt 9 ./helloworld.txt 5 
+</list>
+<list> test2test2
+./helloworld.txt 2 
+</list>
+<list> test3
+./output.txt 5 ./hello.txt 5 
+</list>
+<list> test3ex2
+./helloworld.txt 4 
+</list>
+<list> test3example
+./helloworld.txt 1 
+</list>
+<list> testdir
+./output.txt 12 ./helloworld.txt 12 ./hello.txt 12 ./pa3/testplan.txt 3 ./testplan.txt 3 
+</list>
+<list> tests
+./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> tex
+./readme.log 6 
+</list>
+<list> texl
+./readme.log 1 
+</list>
+<list> texlive
+./readme.log 6 
+</list>
+<list> texmf
+./readme.log 7 
+</list>
+<list> than
+./simpleTestDir/secondFile.txt 1 
+</list>
+<list> that
+./pa3/sorted-list.h 8 ./sorted-list.h 8 ./readme.tex 6 ./.git/hooks/pre-rebase.sample 3 ./pa3/tokenizer.c 2 ./tokenizer.c 2 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/prepare-commit-msg.sample 2 ./pa3/testplan.txt 1 ./.git/hooks/commit-msg.sample 1 ./.git/info/exclude 1 ./testplan.txt 1 
+</list>
+<list> the
+./readme.tex 38 ./pa3/sorted-list.h 32 ./sorted-list.h 32 ./pa3/tokenizer.c 29 ./tokenizer.c 29 ./.git/hooks/prepare-commit-msg.sample 18 ./.git/hooks/pre-rebase.sample 18 ./pa3/testplan.txt 15 ./testplan.txt 15 ./.git/hooks/pre-commit.sample 11 ./.git/hooks/commit-msg.sample 11 ./.git/hooks/pre-push.sample 9 ./.git/hooks/update.sample 6 ./.git/hooks/applypatch-msg.sample 5 ./simpleTestDir/secondFile.txt 2 ./hashtable.c 2 ./pa3/hashtable.c 2 ./.git/hooks/pre-applypatch.sample 2 ./simpleTestDir/firstFile.txt 1 ./.git/info/exclude 1 ./.git/description 1 ./index.txt 1 
+</list>
+<list> their
+./pa3/tokenizer.c 2 ./tokenizer.c 2 
+</list>
+<list> them
+./.git/info/exclude 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> then
+./.git/hooks/update.sample 10 ./.git/hooks/pre-rebase.sample 5 ./readme.tex 3 ./.git/hooks/pre-push.sample 3 ./.git/hooks/pre-commit.sample 2 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> there
+./.git/hooks/pre-rebase.sample 2 ./testDir/test2/test2.txt 1 ./output.txt 1 ./helloworld.txt 1 ./readme.tex 1 ./pa3/testplan.txt 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/update.sample 1 ./testplan.txt 1 ./hello.txt 1 
+</list>
+<list> therefore
+./readme.tex 2 
+</list>
+<list> these
+./pa3/testplan.txt 1 ./.git/hooks/pre-rebase.sample 1 ./testplan.txt 1 
+</list>
+<list> they
+./.git/hooks/update.sample 3 
+</list>
+<list> things
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> third
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> this
+./.git/hooks/update.sample 15 ./pa3/sorted-list.h 8 ./sorted-list.h 8 ./multipleLineFile.txt 6 ./.git/hooks/pre-rebase.sample 6 ./.git/hooks/pre-commit.sample 5 ./pa3/tokenizer.c 4 ./tokenizer.c 4 ./.git/hooks/prepare-commit-msg.sample 4 ./.git/hooks/commit-msg.sample 4 ./.git/hooks/pre-push.sample 3 ./simpleTestDir/secondFile.txt 2 ./.git/hooks/post-update.sample 2 ./.git/hooks/pre-applypatch.sample 2 ./.git/hooks/applypatch-msg.sample 2 ./index.txt 2 ./oneLineFile.txt 1 ./simpleTestDir/firstFile.txt 1 ./readme.tex 1 ./pa3/file-reader.c 1 ./.git/description 1 ./readme.log 1 ./file-reader.c 1 
+</list>
+<list> those
+./.git/hooks/pre-push.sample 1 
+</list>
+<list> three
+./.git/hooks/prepare-commit-msg.sample 1 
+</list>
+<list> through
+./pa3/sorted-list.h 2 ./sorted-list.h 2 ./readme.tex 1 
+</list>
+<list> tilde
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> time
+./readme.tex 3 ./readme.aux 1 
+</list>
+<list> tip
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> title
+./readme.tex 1 
+</list>
+<list> tk
+./pa3/tokenizer.c 35 ./tokenizer.c 35 ./tokenizer.h 2 ./pa3/tokenizer.h 2 
+</list>
+<list> tkcreate
+./pa3/tokenizer.c 4 ./tokenizer.c 4 ./tokenizer.h 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> tkdestroy
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> tkgetnexttoken
+./pa3/tokenizer.c 3 ./tokenizer.c 3 ./tokenizer.h 1 ./pa3/tokenizer.h 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> to
+./.git/hooks/pre-rebase.sample 32 ./pa3/sorted-list.h 23 ./sorted-list.h 23 ./pa3/tokenizer.c 19 ./tokenizer.c 19 ./.git/hooks/pre-commit.sample 16 ./.git/hooks/commit-msg.sample 8 ./.git/hooks/pre-push.sample 7 ./.git/hooks/update.sample 6 ./.git/hooks/prepare-commit-msg.sample 5 ./.git/hooks/pre-applypatch.sample 5 ./.git/hooks/applypatch-msg.sample 5 ./readme.tex 4 ./pa3/sorted-list.c 3 ./.git/hooks/post-update.sample 3 ./sorted-list.c 3 ./tokenizer.h 2 ./pa3/tokenizer.h 2 ./main.c 1 ./.git/info/exclude 1 ./.git/description 1 ./index.txt 1 
+</list>
+<list> toc
+./readme.aux 2 ./.git/objects/pack/pack-ec6e1860f7c3db4ba1b11c74eca9ce74367b3c15.idx 1 
+</list>
+<list> token
+./pa3/tokenizer.c 32 ./tokenizer.c 32 ./pa3/file-reader.c 6 ./file-reader.c 6 
+</list>
+<list> tokenized
+./readme.tex 1 
+</list>
+<list> tokenizer
+./pa3/tokenizer.c 23 ./tokenizer.c 23 ./makefile 8 ./pa3/makefile 7 ./pa3/file-reader.c 5 ./file-reader.c 5 ./readme.tex 4 ./tokenizer.h 3 ./pa3/tokenizer.h 3 ./main.c 1 ./pa3/main.c 1 ./pa3/output.txt 1 
+</list>
+<list> tokenizert
+./pa3/tokenizer.c 10 ./tokenizer.c 10 ./tokenizer.h 6 ./pa3/tokenizer.h 6 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> tokens
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./readme.tex 1 
+</list>
+<list> tolower
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> too
+./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> top
+./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> topic
+./.git/hooks/pre-rebase.sample 35 
+</list>
+<list> total
+./readme.tex 1 
+</list>
+<list> tr
+./.git/hooks/pre-commit.sample 3 
+</list>
+<list> tracking
+./.git/hooks/update.sample 3 
+</list>
+<list> transports
+./.git/hooks/post-update.sample 1 
+</list>
+<list> tree
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> trivial
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> true
+./.git/hooks/update.sample 6 ./.git/hooks/pre-commit.sample 3 ./.git/config 2 
+</list>
+<list> two
+./pa3/tokenizer.c 2 ./tokenizer.c 2 ./readme.tex 1 ./pa3/testplan.txt 1 ./pa3/sorted-list.h 1 ./testplan.txt 1 ./sorted-list.h 1 
+</list>
+<list> txt
+./pa3/testplan.txt 37 ./testplan.txt 37 ./output.txt 12 ./helloworld.txt 12 ./hello.txt 12 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> type
+./pa3/sorted-list.h 6 ./.git/hooks/update.sample 6 ./sorted-list.h 6 
+</list>
+<list> type1
+./readme.log 5 
+</list>
+<list> typedef
+./pa3/hashtable.h 5 ./hashtable.h 5 ./pa3/sorted-list.h 4 ./sorted-list.h 4 ./tokenizer.h 1 ./pa3/tokenizer.h 1 
+</list>
+<list> types
+./.git/hooks/update.sample 1 
+</list>
+<list> u
+./pa3/readme.pdf 2 ./readme.log 1 
+</list>
+<list> un
+./.git/hooks/update.sample 2 
+</list>
+<list> unable
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> unannotated
+./.git/hooks/update.sample 2 
+</list>
+<list> uncomment
+./.git/hooks/commit-msg.sample 1 ./.git/info/exclude 1 
+</list>
+<list> undef
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> unescape
+./tokenizer.h 1 ./pa3/tokenizer.h 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> unescaped
+./pa3/tokenizer.c 8 ./tokenizer.c 8 
+</list>
+<list> uniq
+./.git/hooks/commit-msg.sample 1 
+</list>
+<list> unistd
+./main.c 1 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> unknown
+./.git/hooks/update.sample 1 
+</list>
+<list> unnamed
+./.git/hooks/update.sample 1 ./.git/description 1 
+</list>
+<list> unsigned
+./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/hashtable.h 5 ./hashtable.h 5 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> up
+./.git/hooks/pre-rebase.sample 4 
+</list>
+<list> update
+./.git/hooks/update.sample 3 ./.git/hooks/post-update.sample 2 ./hashtable.c 1 ./pa3/hashtable.c 1 ./pa3/hashtable.h 1 ./pa3/file-reader.c 1 ./hashtable.h 1 ./.git/hooks/pre-push.sample 1 ./file-reader.c 1 
+</list>
+<list> updmap
+./readme.log 1 
+</list>
+<list> upstream
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> url
+./.git/hooks/pre-push.sample 2 ./.git/config 1 
+</list>
+<list> us
+./readme.tex 1 
+</list>
+<list> usage
+./readme.tex 2 ./readme.aux 1 ./.git/hooks/update.sample 1 
+</list>
+<list> use
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/post-update.sample 1 ./.git/hooks/update.sample 1 ./.git/info/exclude 1 
+</list>
+<list> used
+./pa3/sorted-list.h 3 ./sorted-list.h 3 ./readme.tex 1 ./readme.log 1 
+</list>
+<list> user
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> uses
+./readme.tex 2 
+</list>
+<list> using
+./pa3/sorted-list.h 3 ./sorted-list.h 3 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> usr
+./readme.log 7 ./.git/hooks/prepare-commit-msg.sample 2 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> uvl
+./pa3/readme.pdf 1 
+</list>
+<list> v
+./pa3/readme.pdf 3 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> v1
+./readme.log 2 
+</list>
+<list> value
+./pa3/tokenizer.c 4 ./tokenizer.c 4 
+</list>
+<list> values
+./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> var
+./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/commit-msg.sample 1 ./readme.log 1 
+</list>
+<list> variable
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> verify
+./.git/hooks/pre-commit.sample 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-applypatch.sample 1 
+</list>
+<list> version
+./readme.log 1 
+</list>
+<list> vg
+./pa3/readme.pdf 1 
+</list>
+<list> via
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> vj
+./readme.pdf 1 
+</list>
+<list> void
+./pa3/sorted-list.h 14 ./sorted-list.h 14 ./pa3/sorted-list.c 12 ./sorted-list.c 12 ./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/hashtable.h 6 ./hashtable.h 6 ./file-reader.h 5 ./pa3/file-reader.h 5 ./pa3/file-reader.c 4 ./file-reader.c 4 ./tokenizer.h 1 ./pa3/tokenizer.h 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> w
+./main.c 1 ./pa3/readme.pdf 1 ./pa3/file-reader.c 1 ./readme.pdf 1 
+</list>
+<list> walk
+./pa3/sorted-list.h 2 ./sorted-list.h 2 
+</list>
+<list> wall
+./makefile 1 ./pa3/output.txt 1 ./pa3/makefile 1 
+</list>
+<list> wang
+./main.c 1 ./readme.tex 1 ./pa3/main.c 1 ./pa3/testplan.txt 1 ./testplan.txt 1 
+</list>
+<list> want
+./.git/hooks/pre-rebase.sample 4 ./.git/hooks/pre-commit.sample 2 ./.git/hooks/update.sample 2 ./tokenizer.h 1 ./pa3/tokenizer.h 1 ./.git/info/exclude 1 
+</list>
+<list> wants
+./.git/hooks/pre-commit.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>
+<list> was
+./.git/hooks/pre-rebase.sample 2 ./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> way
+./pa3/sorted-list.h 1 ./sorted-list.h 1 
+</list>
+<list> wc
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> wcp
+./hashtable.c 14 ./pa3/hashtable.c 14 ./pa3/file-reader.c 4 ./file-reader.c 4 ./pa3/hashtable.h 1 ./hashtable.h 1 
+</list>
+<list> we
+./.git/hooks/pre-rebase.sample 6 ./readme.tex 5 ./pa3/testplan.txt 2 ./testplan.txt 2 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> what
+./pa3/sorted-list.h 2 ./.git/hooks/pre-commit.sample 2 ./sorted-list.h 2 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-applypatch.sample 1 
+</list>
+<list> when
+./pa3/sorted-list.h 3 ./sorted-list.h 3 ./readme.tex 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> whenever
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> where
+./readme.tex 2 ./.git/hooks/pre-push.sample 1 
+</list>
+<list> whether
+./.git/hooks/update.sample 5 
+</list>
+<list> which
+./.git/hooks/pre-push.sample 3 ./readme.tex 1 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> while
+./hashtable.c 6 ./pa3/hashtable.c 6 ./pa3/file-reader.c 6 ./file-reader.c 6 ./pa3/tokenizer.c 5 ./pa3/sorted-list.c 5 ./tokenizer.c 5 ./sorted-list.c 5 ./pa3/sorted-list.h 1 ./.git/hooks/pre-push.sample 1 ./sorted-list.h 1 
+</list>
+<list> whitespace
+./.git/hooks/pre-commit.sample 1 
+</list>
+<list> will
+./pa3/sorted-list.h 4 ./.git/hooks/update.sample 4 ./sorted-list.h 4 ./.git/hooks/pre-push.sample 2 ./pa3/tokenizer.c 1 ./tokenizer.c 1 
+</list>
+<list> wip
+./.git/hooks/pre-push.sample 4 
+</list>
+<list> with
+./.git/hooks/pre-rebase.sample 6 ./pa3/testplan.txt 4 ./.git/hooks/pre-commit.sample 4 ./.git/hooks/prepare-commit-msg.sample 4 ./testplan.txt 4 ./readme.tex 3 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-push.sample 3 ./.git/hooks/commit-msg.sample 2 ./.git/hooks/update.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./.git/info/exclude 1 ./.git/packed-refs 1 
+</list>
+<list> within
+./pa3/tokenizer.c 1 ./pa3/sorted-list.h 1 ./tokenizer.c 1 ./readme.log 1 ./sorted-list.h 1 
+</list>
+<list> without
+./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> wlp
+./hashtable.c 9 ./pa3/hashtable.c 9 ./pa3/file-reader.c 4 ./file-reader.c 4 
+</list>
+<list> won
+./.git/hooks/update.sample 4 
+</list>
+<list> word
+./hashtable.c 23 ./pa3/hashtable.c 23 ./readme.tex 10 ./pa3/hashtable.h 4 ./hashtable.h 4 ./pa3/file-reader.c 3 ./file-reader.c 3 ./pa3/testplan.txt 2 ./testplan.txt 2 
+</list>
+<list> wordcountpair
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 4 ./hashtable.h 4 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> wordlist
+./pa3/file-reader.c 7 ./file-reader.c 7 ./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 2 ./hashtable.h 2 
+</list>
+<list> wordlistpair
+./hashtable.c 4 ./pa3/hashtable.c 4 ./pa3/hashtable.h 2 ./hashtable.h 2 ./pa3/file-reader.c 1 ./file-reader.c 1 
+</list>
+<list> words
+./pa3/testplan.txt 6 ./testplan.txt 6 ./readme.tex 5 ./main.c 4 ./pa3/main.c 4 ./pa3/file-reader.c 4 ./file-reader.c 4 ./file-reader.h 3 ./pa3/file-reader.h 3 ./readme.log 3 
+</list>
+<list> work
+./readme.tex 1 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> workflow
+./.git/hooks/pre-rebase.sample 2 
+</list>
+<list> working
+./main.c 2 
+</list>
+<list> worst
+./readme.tex 1 
+</list>
+<list> would
+./.git/hooks/pre-rebase.sample 5 ./.git/info/exclude 1 
+</list>
+<list> write
+./readme.tex 1 ./pa3/file-reader.c 1 ./index.txt 1 ./file-reader.c 1 
+</list>
+<list> write18
+./readme.log 1 
+</list>
+<list> writefile
+./readme.aux 2 
+</list>
+<list> written
+./readme.log 1 
+</list>
+<list> wurld
+./testDir/test.txt 1 ./output.txt 1 ./helloworld.txt 1 ./hello.txt 1 
+</list>
+<list> x
+./readme.pdf 2 ./file-reader.h.gch 1 ./tokenizer.h.gch 1 ./pa3/tokenizer.c 1 ./pa3/readme.pdf 1 ./tokenizer.c 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/applypatch-msg.sample 1 ./hashtable.h.gch 1 ./sorted-list.h.gch 1 
+</list>
+<list> xk
+./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> xmf
+./readme.log 1 
+</list>
+<list> y
+./pa3/readme.pdf 1 ./readme.pdf 1 
+</list>
+<list> you
+./pa3/sorted-list.h 15 ./sorted-list.h 15 ./.git/hooks/pre-rebase.sample 9 ./.git/hooks/pre-commit.sample 5 ./pa3/tokenizer.c 4 ./tokenizer.c 4 ./.git/hooks/update.sample 3 ./.git/info/exclude 1 ./readme.log 1 
+</list>
+<list> young
+./.git/hooks/pre-rebase.sample 1 
+</list>
+<list> your
+./pa3/sorted-list.h 11 ./sorted-list.h 11 ./pa3/tokenizer.c 3 ./tokenizer.c 3 ./.git/hooks/pre-rebase.sample 3 
+</list>
+<list> z
+./.git/hooks/update.sample 4 ./pa3/readme.pdf 3 ./.git/hooks/pre-rebase.sample 2 ./.git/hooks/pre-commit.sample 1 
+</list>
+<list> z40
+./.git/hooks/pre-push.sample 3 
+</list>
+<list> zero
+./.git/hooks/update.sample 3 ./.git/hooks/pre-push.sample 1 ./.git/hooks/pre-commit.sample 1 ./.git/hooks/prepare-commit-msg.sample 1 ./.git/hooks/pre-applypatch.sample 1 ./.git/hooks/pre-rebase.sample 1 ./.git/hooks/commit-msg.sample 1 ./.git/hooks/applypatch-msg.sample 1 
+</list>

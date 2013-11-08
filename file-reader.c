@@ -108,15 +108,12 @@ void scan_dir(char *path, const char *dir, SortedListPtr words){
    }
 }
 
-void outputPairsToFile (const char *filename, SortedListPtr wordlist){
+void outputPairsToFile (FILE *outfile, SortedListPtr wordlist){
 
    SortedListIteratorPtr mainIterator;
    SortedListIteratorPtr pairIterator;
-   FILE *outfile;
    WordListPair *wlp;
    FileCountPair *fcp;
-
-   outfile = fopen(filename,"w");
 
    mainIterator = SLCreateIterator(wordlist);
 

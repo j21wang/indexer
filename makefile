@@ -9,16 +9,16 @@ main.o: main.c sorted-list.h tokenizer.h
 		  $(CC) $(CFLAGS) main.c
 
 file-reader.o: file-reader.c file-reader.h
-			$(CC) $(CFLAGS) file-reader.c
+			$(CC) $(CFLAGS) file-reader.c file-reader.h
 
 tokenizer.o: tokenizer.c tokenizer.h
-			$(CC) $(CFLAGS) tokenizer.c
+			$(CC) $(CFLAGS) tokenizer.c tokenizer.h
 
 sorted-list.o: sorted-list.c sorted-list.h
-			$(CC) $(CFLAGS) sorted-list.c
+			$(CC) $(CFLAGS) sorted-list.c sorted-list.h
 
 hashtable.o: hashtable.c hashtable.h
-			$(CC) $(CFLAGS) hashtable.c
+			$(CC) $(CFLAGS) hashtable.c hashtable.h
 
 clean:
 		 rm -rf *.o index 

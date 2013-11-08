@@ -7,6 +7,7 @@
 #define TOKENIZER_H
 
 #include <stdlib.h>
+#include <stdio.h>
 
 struct TokenizerT_ {
 	FILE* file;
